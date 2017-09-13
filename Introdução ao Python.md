@@ -1,8 +1,7 @@
 Introdução ao Python
 ===================
 
-´´´python
+```python
 a = range(10)
 print a
-
-´´´
+```
