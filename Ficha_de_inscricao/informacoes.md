@@ -47,4 +47,5 @@ fernando.ribeiro@ufba.br
 **Resumo:**
 
 O desenvolvimento da Ciência da Computação, e a sua consequente aplicação em ambientes digitais de projeto, acarretaram em grandes mudanças na atuação de diversos profissionais que lidam com a criação de formas e objetos. As metodologias generativas, a concepção de formas complexas, a visualização de dados urbanísticos ou a manipulação avançada de informações construtivas de um modelo, por exemplo, exigem por vezes um domínio da lógica de programação que pode ser prescindido pelo usuário da interface básica.
+
 Este curso pretende introduzir a lógica de programação como uma estratégia para a resolução de certos tipos de problema. A conexão com a prática profissional será dada através da aplicação direta da lógica na manipulação de formas nas interfaces de programação dos aplicativos (API) de ferramentas CAD.
