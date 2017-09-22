@@ -42,6 +42,8 @@ Dias 26, 27 e 28/09* no Lcad - Faculdade de Arquitetura - UFBA
 
 **Download da ficha de inscrição:**
 
+[aqui](Curso LPACAF Ficha de inscricao 2017_2.doc)
+
 https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/Curso%20LPACAF%20Ficha%20de%20inscricao%202017_2.doc
 
 **Professor:**
