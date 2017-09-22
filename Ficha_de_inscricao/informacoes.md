@@ -6,6 +6,8 @@
 ============================================================================================
 **Cartaz**
 
+[cartaz](Cartaz_FernandoFerraz_2017-2.png)
+
 https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/L%C3%B3gica_Cria%C3%A7%C3%A3o_Forma_2017_2.pdf
 
 
@@ -41,8 +43,6 @@ Dias 26, 27 e 28/09* no Lcad - Faculdade de Arquitetura - UFBA
 20
 
 **Download da ficha de inscrição:**
-
-[aqui](https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/Curso%20LPACAF%20Ficha%20de%20inscricao%202017_2.doc)
 
 https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/Curso%20LPACAF%20Ficha%20de%20inscricao%202017_2.doc
 
