@@ -15,7 +15,7 @@ https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/L%C3%B3gica_
 
 **Publico alvo:**
 
-Profissionais e estudantes na área de Arquitetura, Engenharia, Design de produtos, Computação dentre outros.
+Profissionais e estudantes nas área de Arquitetura, Engenharia, Design de produtos, Computação, dentre outros.
 
 **Pré-requisitos:**
 
