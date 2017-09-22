@@ -6,7 +6,7 @@
 ============================================================================================
 **Cartaz**
 
-[cartaz](Cartaz_FernandoFerraz_2017-2.png)
+![cartaz](Cartaz_FernandoFerraz_2017-2.png)
 
 https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/L%C3%B3gica_Cria%C3%A7%C3%A3o_Forma_2017_2.pdf
 
