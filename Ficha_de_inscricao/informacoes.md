@@ -4,6 +4,11 @@
 
 **Lógica de programação aplicada à criação e análise da forma - segunda edição 2017.2**
 ============================================================================================
+**Cartaz**
+
+https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/L%C3%B3gica_Cria%C3%A7%C3%A3o_Forma_2017_2.pdf
+
+
 **Objetivo:**
 
 **Introduzir os conceitos básicos de lógica de programação e sua aplicação na criação e análise de formas.**
