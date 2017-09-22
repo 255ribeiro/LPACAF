@@ -4,7 +4,7 @@
 
 **Lógica de programação aplicada à criação e análise da forma - segunda edição 2017.2**
 ============================================================================================
-**Cartaz**
+**Cartaz Divulgação:**
 
 ![cartaz](Cartaz_FernandoFerraz_2017-2.png)
 
