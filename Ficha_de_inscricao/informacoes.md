@@ -1,9 +1,9 @@
 
 
-Curso de extensão:
+**Curso de extensão:**
 
-*Lógica de programação aplicada à criação e análise da forma - segunda edição 2017.2
-
+**Lógica de programação aplicada à criação e análise da forma - segunda edição 2017.2**
+============================================================================================
 **Objetivo:**
 
 **Introduzir os conceitos básicos de lógica de programação e sua aplicação na criação e análise de formas.**
