@@ -11,7 +11,7 @@ https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/L%C3%B3gica_
 
 **Objetivo:**
 
-**Introduzir os conceitos básicos de lógica de programação e sua aplicação na criação e análise de formas.**
+Introduzir os conceitos básicos de lógica de programação e sua aplicação na criação e análise de formas.
 
 **Publico alvo:**
 
@@ -42,7 +42,7 @@ Dias 26, 27 e 28/09* no Lcad - Faculdade de Arquitetura - UFBA
 
 **Download da ficha de inscrição:**
 
-https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/L%C3%B3gica_Cria%C3%A7%C3%A3o_Forma_2017_2.pdf
+https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/Curso%20LPACAF%20Ficha%20de%20inscricao%202017_2.doc
 
 **Professor:**
 Fernando Ferraz Ribeiro
