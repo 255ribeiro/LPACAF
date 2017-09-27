@@ -190,7 +190,7 @@ Plano de Curso
 1. Malha de pontos irregular
    * recebendo listas
    
-1. Exercício 09 - 
+1. Exercício 09 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
 
@@ -198,17 +198,49 @@ Plano de Curso
 #### Alua 10 - (11/12)
 
 
+1. Edfício de Multiplos pavimentos
+
+1. Exercício 10 - ????
+
+1. Referências e *links* ùteis
+
+
 #### Alua 11 - (18/12)
+
+1. Treliça
+
+1. Exercício 11 - ????
+
+1. Referências e *links* ùteis
 
 
 #### Alua 12 - (08/01)
+
+1. Entendenro mensagens de erro
+
+1. Exercício 12 - ????
+
+1. Referências e *links* ùteis
 
 
 
 #### Alua 13 - (15/01)
 
+1. trabalhando com Planos Parte I
+
+1. Exercício 13 - ????
+
+1. Referências e *links* ùteis
+
 
 #### Alua 14 - (22/01)
+
+1. trabalhando com Planos Parte II
+
+1. Exercício 13 - ????
+
+1. Referências e *links* ùteis
+
 
 
 #### Alua 15 - (29/01)
