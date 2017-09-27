@@ -6,6 +6,7 @@ Plano de Curso
 #### Alua 01 - (06/10)
 
 1. Apresentação do curso
+
     * Metodoloagia
     * Avaliações
 
@@ -13,10 +14,13 @@ Plano de Curso
 
 
 1. Introdução
+
    * História da programação
    * Programação Aplicada à arquitetura e urbanismo
    * A linguagem Python
+   
 1. Instalação
+
     * CPython 2.7x IDLE
     * Anaconda
     
@@ -37,7 +41,7 @@ Plano de Curso
         * Reais (ponto flutuante)
         * *Strings*
           
-1. Operadores matemáticos* Níveis de Parênteses
+1. Operadores matemáticos
     * Níveis de Parênteses
         
     * Mod e Div
@@ -57,24 +61,51 @@ Plano de Curso
 #### Alua 03- (16/10)
 
 1. Editor de arquivos
+
    * abrir editor
    * salvar arquivo
    * editar
    * executar
+   
+   
+1. Entradas e saídas
+
 
 1. Bibliotecas
+
    * Importanto módulos
    * 3 formas de importação
-   * importação from __future__
+   * importação from \_\_future\_\_
    
-
-
 1. Referências e *links* ùteis
 
+1. Exercício 02 - Bhaskara
 
 
 #### Alua 05 - (30/10)
 
+1. iteráveis
+   
+   * listas
+      * fila
+      * pilha
+      * lista
+      * operações em listas
+      * função range()
+      * função len()
+      * função list()
+    
+   * tuples
+   
+   * strings
+
+1. Repetições
+
+   * While
+
+   * for
+   
+1. Exercício 03 - Fibonacci
 
 
 #### Alua 06 - (06/11)
