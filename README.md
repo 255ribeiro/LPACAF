@@ -140,20 +140,6 @@ Plano de Curso
    * Comando Pipe
    * Comando Extrude
    * Comando Loft
-    
-1. Interface do editor de scripts python do rhino
-   * importando biblioteca rhinoscriptsintax
-   * entrada de dados
-   * saida de dados
-   * ajuda
-   
-1. Sequeqncia de colunas no RhinoPyhton
-
-1. Exercício 06 - 
-
-1. Referências e *links* ùteis
-
-#### Alua 07 - (20/11)
 
 
 1. Instalação do GrassHopper
@@ -172,51 +158,72 @@ Plano de Curso
 
 1. Grasshopper Python Component (GhPython)
 
-1. Exercício 07 - Criar sequência de colunas do GhPython.
+1. Exercício 06 - Criar sequência de colunas do GhPython.
 
 1. Referências e *links* ùteis
 
-#### Alua 08 - (27/11)
+
+
+
+#### Alua 07 - (20/11)
 
 1. Malha de pontos regular
    * Duplo for
    
-1. Exercício 08 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
+1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
 1. Referências e *links* ùteis
 
-#### Alua 09 - (04/12)
+
+#### Alua 08 - (27/11)
 
 1. Malha de pontos irregular
    * recebendo listas
    
-1. Exercício 09 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
+1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
+
+
+
+#### Alua 09 - (04/12)
+
+1. Edfício de Multiplos pavimentos
+
+1. Exercício 9 - ????
+
+1. Referências e *links* ùteis
+
+
+
 
 
 #### Alua 10 - (11/12)
 
 
-1. Edfício de Multiplos pavimentos
+1. Treliça
 
 1. Exercício 10 - ????
 
 1. Referências e *links* ùteis
 
 
+
+
+
 #### Alua 11 - (18/12)
 
-1. Treliça
+1. Entendenro mensagens de erro
 
 1. Exercício 11 - ????
 
 1. Referências e *links* ùteis
 
 
+
 #### Alua 12 - (08/01)
 
-1. Entendenro mensagens de erro
+1. trabalhando com Planos Parte I
 
 1. Exercício 12 - ????
 
@@ -226,18 +233,20 @@ Plano de Curso
 
 #### Alua 13 - (15/01)
 
-1. trabalhando com Planos Parte I
+1. trabalhando com Planos Parte II
 
 1. Exercício 13 - ????
 
 1. Referências e *links* ùteis
 
 
+
+
 #### Alua 14 - (22/01)
 
-1. trabalhando com Planos Parte II
+1. Fractais
 
-1. Exercício 13 - ????
+1. Exercício 14 - ????
 
 1. Referências e *links* ùteis
 
