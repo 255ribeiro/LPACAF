@@ -27,6 +27,9 @@ Plano de Curso
 1. Hello World no Python Shell
 
 
+1. Exercício 01
+
+
 1. Referências e *links* ùteis
 
 
@@ -54,7 +57,7 @@ Plano de Curso
         * else
         * elif
         
-1. Exercício 01 - inverter número de 3 digitos         
+1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
 
 1. Referências e *links* ùteis
 
@@ -79,7 +82,7 @@ Plano de Curso
    
 1. Referências e *links* ùteis
 
-1. Exercício 02 - Bhaskara
+1. Exercício 03 - Bhaskara
 
 1. Referências e *links* ùteis
 
@@ -107,7 +110,7 @@ Plano de Curso
 
    * for
    
-1. Exercício 03 - Fibonacci
+1. Exercício 04 - Sequência de Fibonacci
 
 1. Referências e *links* ùteis
 
@@ -121,20 +124,53 @@ Plano de Curso
    * Definições
    * Retorno
    * Chamada
-
-1. 
    
+1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas. 
 
-   
-
+1. Referências e *links* ùteis
 
 #### Alua 06 - (13/11)
 
+1. instalação do Rhinoceros
 
+
+1. Interface do Rhinoceros
+   * Linha de comando
+   * Comandos de curvas
+   * Comando Pipe
+   * Comando Extrude
+   * Comando Loft
+    
+1. Interface de 
+   * importando biblioteca rhinoscriptsintax
+   * entrada de dados
+   * saida de dados
+   * ajuda
+   
+1. Sequeqncia de colunas no RhinoPyhton
+
+1. Referências e *links* ùteis
 
 #### Alua 07 - (20/11)
 
 
+1. Instalação do GrassHopper
+1. Instalação do Grasshopper Python Component
+
+1. Interface do Grasshopper
+
+   * Parâmetros de entrada
+   * Sequência de comandos
+   * Bake
+   * Exemplos
+   * Listas
+   * Exemplos
+   
+2. Sequência de colunas no Grasshopper
+
+1. Grasshopper Python Component
+
+1. Referências e *links* ùteis
 
 #### Alua 08 - (27/11)
 
@@ -161,11 +197,17 @@ Plano de Curso
 
 #### Alua 15 - (29/01)
 
+1. Orientação de trabalhos
+
 
 #### Alua 16 - (05/02)
 
+1. Orientação de trabalhos
+
 
 #### Alua 17 - (19/02)
+
+1. Encerramento do Curso
 
 
 
