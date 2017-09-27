@@ -20,9 +20,8 @@ Plano de Curso
     * CPython 2.7x IDLE
     * Anaconda
     
-1. Hello World
+1. Hello World no Python Shell
 
-1. Operadores Matemáticos
 
 1. Referências e *links* ùteis
 
@@ -37,25 +36,40 @@ Plano de Curso
         * Inteiras
         * Reais (ponto flutuante)
         * *Strings*
+          
+1. Operadores matemáticos* Níveis de Parênteses
+    * Níveis de Parênteses
         
     * Mod e Div
     
         * Divisão inteira e divisão real
-        
-    * Níveis de Parênteses
     
     * Condicionais lógicas
     
         * if
         * else
         * elif
-
-
-    
+        
+1. Exercício 01 - inverter número de 3 digitos         
 
 1. Referências e *links* ùteis
 
 #### Alua 03- (16/10)
+
+1. Editor de arquivos
+   * abrir editor
+   * salvar arquivo
+   * editar
+   * executar
+
+1. Bibliotecas
+   * Importanto módulos
+   * 3 formas de importação
+   * importação from __future__
+   
+
+
+1. Referências e *links* ùteis
 
 
 
