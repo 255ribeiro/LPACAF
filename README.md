@@ -81,8 +81,10 @@ Plano de Curso
 
 1. Exercício 02 - Bhaskara
 
+1. Referências e *links* ùteis
 
-#### Alua 05 - (30/10)
+
+#### Alua 04 - (30/10)
 
 1. iteráveis
    
@@ -107,46 +109,64 @@ Plano de Curso
    
 1. Exercício 03 - Fibonacci
 
-
-#### Alua 06 - (06/11)
-
+1. Referências e *links* ùteis
 
 
-#### Alua 07 - (13/11)
+#### Alua 05 - (06/11)
+
+1. Manipulação de listas
+
+1. Criação de funções
+
+   * Definições
+   * Retorno
+   * Chamada
+
+1. 
+   
+
+   
 
 
-
-#### Alua 08 - (20/11)
-
-
-
-#### Alua 09 - (27/11)
-
-
-
-#### Alua 10 - (04/12)
-
-
-#### Alua 11 - (11/12)
-
-
-#### Alua 12 - (18/12)
-
-
-#### Alua 13 - (08/01)
+#### Alua 06 - (13/11)
 
 
 
-#### Alua 14 - (15/01)
+#### Alua 07 - (20/11)
 
 
-#### Alua 15 - (22/01)
+
+#### Alua 08 - (27/11)
 
 
-#### Alua 16 - (29/01)
+
+#### Alua 09 - (04/12)
 
 
-#### Alua 17 - (05/02)
+#### Alua 10 - (11/12)
+
+
+#### Alua 11 - (18/12)
+
+
+#### Alua 12 - (08/01)
+
+
+
+#### Alua 13 - (15/01)
+
+
+#### Alua 14 - (22/01)
+
+
+#### Alua 15 - (29/01)
+
+
+#### Alua 16 - (05/02)
+
+
+#### Alua 17 - (19/02)
+
 
 
 
