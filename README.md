@@ -141,13 +141,15 @@ Plano de Curso
    * Comando Extrude
    * Comando Loft
     
-1. Interface de 
+1. Interface do editor de scripts python do rhino
    * importando biblioteca rhinoscriptsintax
    * entrada de dados
    * saida de dados
    * ajuda
    
 1. Sequeqncia de colunas no RhinoPyhton
+
+1. Exercício 06 - 
 
 1. Referências e *links* ùteis
 
@@ -166,17 +168,31 @@ Plano de Curso
    * Listas
    * Exemplos
    
-2. Sequência de colunas no Grasshopper
+1. Sequência de colunas no Grasshopper
 
-1. Grasshopper Python Component
+1. Grasshopper Python Component (GhPython)
+
+1. Exercício 07 - Criar sequência de colunas do GhPython.
 
 1. Referências e *links* ùteis
 
 #### Alua 08 - (27/11)
 
+1. Malha de pontos regular
+   * Duplo for
+   
+1. Exercício 08 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
+1. Referências e *links* ùteis
 
 #### Alua 09 - (04/12)
+
+1. Malha de pontos irregular
+   * recebendo listas
+   
+1. Exercício 09 - 
+
+1. Referências e *links* ùteis
 
 
 #### Alua 10 - (11/12)
