@@ -22,7 +22,7 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
 1. Instalação
 
     * CPython 2.7x IDLE
-    * Anaconda
+   
     
 1. Hello World no Python Shell
 
@@ -60,6 +60,20 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
 1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
 
 1. Referências e *links* ùteis
+
+   * Python
+      [Python Foundaition](https://www.python.org/)
+      [Python Brazil](http://python.org.br/)
+      
+   * Rhinoceros
+   
+      http://www.rhino3d.com/
+   * Grasshopper
+   
+      http://www.grasshopper3d.com/
+      
+   * Between the Folds
+      https://www.betweenthefolds.com/
 
 #### Alua 03- (16/10)
 
