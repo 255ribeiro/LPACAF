@@ -5,6 +5,7 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
 
 #### Alua 01 - (06/10)
 
+<a href="Aula%2001%20-%20introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20.pdf" download>
 [SLIDES](Aula%2001%20-%20introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20.pdf)
 
 1. Apresentação do curso
