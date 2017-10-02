@@ -27,10 +27,29 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
 1. Hello World no Python Shell
 
 
-1. Exercício 01
+1. Exercício sugerido 01 - Use o Python Shell como uma calculadora
 
 
 1. Referências e *links* ùteis
+
+   * Python
+   
+      [Python Foundaition](https://www.python.org/)
+      
+      [Python Brazil](http://python.org.br/)
+      
+   * Rhinoceros
+   
+      [Rhino3D.com](http://www.rhino3d.com/)
+      
+      [food 4 Rhino](http://www.food4rhino.com/)
+   * Grasshopper
+   
+      [Grasshopper 3d](http://www.grasshopper3d.com/)
+      
+   * Between the Folds
+   
+      [Between the Folds](https://www.betweenthefolds.com/)
 
 
 #### Alua 02 - (09/10)
@@ -61,24 +80,7 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
 
 1. Referências e *links* ùteis
 
-   * Python
-   
-      [Python Foundaition](https://www.python.org/)
-      
-      [Python Brazil](http://python.org.br/)
-      
-   * Rhinoceros
-   
-      [Rhino3D.com](http://www.rhino3d.com/)
-      
-      [food 4 Rhino](http://www.food4rhino.com/)
-   * Grasshopper
-   
-      [Grasshopper 3d](http://www.grasshopper3d.com/)
-      
-   * Between the Folds
-   
-      [Between the Folds](https://www.betweenthefolds.com/)
+
 
 #### Alua 03- (16/10)
 
