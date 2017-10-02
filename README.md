@@ -62,7 +62,9 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
 1. Referências e *links* ùteis
 
    * Python
+   
       [Python Foundaition](https://www.python.org/)
+      
       [Python Brazil](http://python.org.br/)
       
    * Rhinoceros
@@ -73,6 +75,7 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
       http://www.grasshopper3d.com/
       
    * Between the Folds
+   
       https://www.betweenthefolds.com/
 
 #### Alua 03- (16/10)
