@@ -74,11 +74,11 @@ Lógica de Programação Apliaca à Criação e Análise da Forma
       [food 4 Rhino](http://www.food4rhino.com/)
    * Grasshopper
    
-      [Grasshopper 3d]http://www.grasshopper3d.com/
+      [Grasshopper 3d](http://www.grasshopper3d.com/)
       
    * Between the Folds
    
-      https://www.betweenthefolds.com/
+      [Between the Folds](https://www.betweenthefolds.com/)
 
 #### Alua 03- (16/10)
 
