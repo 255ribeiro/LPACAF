@@ -61,7 +61,7 @@
 
 #### Alua 02 - (09/10)
 
-[notas de aula](/LPACAF%20-%20Aula%2002.ipynb)
+[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2002.ipynb)
 
 
 1. Conceito de algoritmo
