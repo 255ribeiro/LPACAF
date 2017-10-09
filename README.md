@@ -1,8 +1,10 @@
 # Lógica de Programação Apliaca à Criação e Análise da Forma
 
 ## Plano de Curso
+
 <hr>
 <hr>
+
 #### Alua 01 - (02/10)
 
 
@@ -53,11 +55,14 @@
    * Between the Folds
    
       [Between the Folds](https://www.betweenthefolds.com/)
+      
+<hr>
 
 
 #### Alua 02 - (09/10)
 
 [notas de aula](/LPACAF%20-%20Aula%2002.ipynb)
+
 
 1. Conceito de algoritmo
 
@@ -85,6 +90,9 @@
 
 1. Referências e *links* ùteis
 
+      
+<hr>
+
 
 
 #### Alua 03- (16/10)
@@ -111,6 +119,9 @@
 1. Exercício 03 - Bhaskara
 
 1. Referências e *links* ùteis
+      
+<hr>
+
 
 
 #### Alua 04 - (30/10)
@@ -139,6 +150,10 @@
 1. Exercício 04 - Sequência de Fibonacci
 
 1. Referências e *links* ùteis
+      
+<hr>
+
+
 
 
 #### Alua 05 - (06/11)
@@ -154,6 +169,11 @@
 1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas. 
 
 1. Referências e *links* ùteis
+
+      
+<hr>
+
+
 
 #### Alua 06 - (13/11)
 
@@ -189,6 +209,9 @@
 1. Referências e *links* ùteis
 
 
+      
+<hr>
+
 
 
 #### Alua 07 - (20/11)
@@ -199,6 +222,9 @@
 1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
 1. Referências e *links* ùteis
+
+      
+<hr>
 
 
 #### Alua 08 - (27/11)
@@ -211,6 +237,9 @@
 1. Referências e *links* ùteis
 
 
+      
+<hr>
+
 
 #### Alua 09 - (04/12)
 
@@ -220,6 +249,9 @@
 
 1. Referências e *links* ùteis
 
+
+      
+<hr>
 
 
 
@@ -235,6 +267,9 @@
 
 
 
+      
+<hr>
+
 
 
 #### Alua 11 - (18/12)
@@ -245,6 +280,9 @@
 
 1. Referências e *links* ùteis
 
+      
+<hr>
+
 
 
 #### Alua 12 - (08/01)
@@ -254,6 +292,9 @@
 1. Exercício 12 - ????
 
 1. Referências e *links* ùteis
+
+      
+<hr>
 
 
 
@@ -266,6 +307,9 @@
 1. Referências e *links* ùteis
 
 
+      
+<hr>
+
 
 
 #### Alua 14 - (22/01)
@@ -275,24 +319,37 @@
 1. Exercício 14 - ????
 
 1. Referências e *links* ùteis
+      
+<hr>
+
 
 
 
 #### Alua 15 - (29/01)
 
 1. Orientação de trabalhos
+      
+<hr>
+
 
 
 #### Alua 16 - (05/02)
 
 1. Orientação de trabalhos
+      
+<hr>
+
 
 
 #### Alua 17 - (19/02)
 
 1. Encerramento do Curso
 
+      
+<hr>
 
+      
+<hr>
 
 
 
