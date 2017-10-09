@@ -1,8 +1,8 @@
-Lógica de Programação Apliaca à Criação e Análise da Forma
-==========================================================
+# Lógica de Programação Apliaca à Criação e Análise da Forma
+
 ## Plano de Curso
-
-
+<hr>
+<hr>
 #### Alua 01 - (02/10)
 
 
