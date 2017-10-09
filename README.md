@@ -20,6 +20,7 @@
 
 1. Introdução
 
+   * Conceito de algoritmo
    * História da programação
    * Programação Aplicada à arquitetura e urbanismo
    * A linguagem Python
@@ -63,8 +64,6 @@
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2002.ipynb)
 
-
-1. Conceito de algoritmo
 
 1. Variáveis
     * Tipos de variáveis
