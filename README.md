@@ -89,6 +89,10 @@
 
 1. Referências e *links* ùteis
 
+cursos de Python:
+
+[para iniciantes](http://python.org.br/introducao)
+
       
 <hr>
 
