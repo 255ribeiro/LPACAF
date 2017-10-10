@@ -42,7 +42,7 @@
    
       [Python Foundaition](https://www.python.org/)
       
-      [Python Brazil](http://python.org.br/)
+      [Python Brasil](http://python.org.br/)
       
    * Rhinoceros
    
