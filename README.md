@@ -1,5 +1,13 @@
 # Lógica de Programação Apliaca à Criação e Análise da Forma
+<hr>
 
+Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
+
+Forum de comunicação da disciplina:
+
+[https://groups.google.com/forum/#!forum/20172-lpacaf](https://groups.google.com/forum/#!forum/20172-lpacaf)
+
+<hr>
 ## Plano de Curso
 
 <hr>
