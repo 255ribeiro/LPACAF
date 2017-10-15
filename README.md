@@ -45,6 +45,7 @@ Forum de comunicação do curso:
    * Divisão inteira e divisão real
         
       * Mod e Div
+      
    * Níveis de Parênteses
 
 
@@ -100,9 +101,9 @@ Forum de comunicação do curso:
     
 1. Condicionais lógicas
 
-        * if
-        * else
-        * elif
+   * if
+   * else
+   * elif
         
 1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
 
