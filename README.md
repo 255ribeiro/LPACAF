@@ -38,7 +38,14 @@ Forum de comunicação do curso:
     * CPython 2.7x IDLE
    
     
-1. Hello World no Python Shell
+1. Operações matemáticas no Python Shell
+
+   * Operadores matemáticos
+   
+   * Divisão inteira e divisão real
+        
+      * Mod e Div
+   * Níveis de Parênteses
 
 
 1. Exercício sugerido 01 - Use o Python Shell como uma calculadora
@@ -79,34 +86,6 @@ Forum de comunicação do curso:
         * Inteiras
         * Reais (ponto flutuante)
         * *Strings*
-          
-1. Operadores matemáticos
-    * Níveis de Parênteses
-        
-    * Mod e Div
-    
-        * Divisão inteira e divisão real
-    
-    * Condicionais lógicas
-    
-        * if
-        * else
-        * elif
-        
-1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
-
-1. Referências e *links* ùteis
-
-cursos de Python:
-
-[para iniciantes](http://python.org.br/introducao)
-
-      
-<hr>
-
-
-
-#### Alua 03- (16/10)
 
 1. Editor de arquivos
 
@@ -117,6 +96,32 @@ cursos de Python:
    
    
 1. Entradas e saídas
+        
+    
+1. Condicionais lógicas
+
+        * if
+        * else
+        * elif
+        
+1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
+
+1. Referências e *links* ùteis
+
+Cursos de Python:
+
+Em portugues:
+
+[para iniciantes](http://python.org.br/introducao)
+
+      
+<hr>
+
+#### Alua 03- (16/10)
+
+1. Funções
+
+   * [Funções *Built-in*](https://docs.python.org/2/library/functions.html#)
 
 
 1. Bibliotecas
@@ -125,11 +130,19 @@ cursos de Python:
    * 3 formas de importação
    * importação from \_\_future\_\_
    
-1. Referências e *links* ùteis
+1. Funções definidas pelo usuário
+
+   * def
+   * parâmetros de entrada
+   * retorno
 
 1. Exercício 03 - Bhaskara
 
 1. Referências e *links* ùteis
+
+
+
+
       
 <hr>
 
@@ -163,9 +176,6 @@ cursos de Python:
 1. Referências e *links* ùteis
       
 <hr>
-
-
-
 
 #### Alua 05 - (06/11)
 
