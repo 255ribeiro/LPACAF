@@ -3,7 +3,7 @@
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Forum de comunicação da disciplina:
+Forum de comunicação do curso:
 
 [https://groups.google.com/forum/#!forum/20172-lpacaf](https://groups.google.com/forum/#!forum/20172-lpacaf)
 
