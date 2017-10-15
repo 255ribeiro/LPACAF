@@ -128,6 +128,12 @@ Em portugues:
 1. Bibliotecas
 
    * Importanto módulos
+       * [Módulo Math](https://docs.python.org/2/library/math.html)
+            * math.sin()
+            * math.sqrt()
+       * [Biblioteca datetime](https://docs.python.org/2/library/datetime.html)
+            * datetime.date()
+            * datetime.timedelta()
    * 3 formas de importação
    * importação from \_\_future\_\_
    
@@ -141,12 +147,8 @@ Em portugues:
 
 1. Referências e *links* ùteis
 
-
-
-
       
 <hr>
-
 
 
 #### Alua 04 - (30/10)
