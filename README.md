@@ -164,6 +164,8 @@ Cursos de Python:
 1. Referências e *links* ùteis
 
    * IDE [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+   
+   * Distribuição [Anaconda](https://www.anaconda.com/download/)
       
 <hr>
 
