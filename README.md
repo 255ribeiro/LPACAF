@@ -156,7 +156,7 @@ Em portugues:
    * parâmetros de entrada
    * retorno
 
-1. Exercício 03 - Bhaskara
+1. Exercício 03 - [Bhaskara](Bhaskara.pdf)
 
 1. Referências e *links* ùteis
 
