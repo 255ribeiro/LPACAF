@@ -163,6 +163,8 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
+   * IDE Pycharm
+   [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
       
 <hr>
 
