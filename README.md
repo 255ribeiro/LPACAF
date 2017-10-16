@@ -132,13 +132,22 @@ Em portugues:
 1. Bibliotecas
 
    * Importanto módulos
-       * [Módulo Math](https://docs.python.org/2/library/math.html)
+       * [Biblioteca keyword](https://docs.python.org/2/library/keyword.html)
+       
+       * [Biblioteca Math](https://docs.python.org/2/library/math.html)
             * math.sin()
             * math.sqrt()
+            
        * [Biblioteca datetime](https://docs.python.org/2/library/datetime.html)
             * datetime.date()
             * datetime.timedelta()
+            
    * 3 formas de importação
+   
+      * import *nome_do_módulo*
+      * import *nome_do_módulo* as *chamada_do_módulo*
+      * from *nome_do_módulo* import *função_ou_classe_do_módulo*
+      
    * importação from \_\_future\_\_
    
 1. Funções definidas pelo usuário
