@@ -124,7 +124,7 @@ Em portugues:
 
    * [Lista de palavras reservadas do Python 2.7x](https://docs.python.org/2/reference/lexical_analysis.html#keywords)
 
-1. Funções
+1. Funções e Métodos
 
    * [Funções *Built-in*](https://docs.python.org/2/library/functions.html#)
 
