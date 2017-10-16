@@ -168,6 +168,8 @@ Cursos de Python:
    * IDE [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
    
    * Distribuição [Anaconda](https://www.anaconda.com/download/)
+   
+   * O software [Processing](https://processing.org/download/) possui um modo de programação em Pytnon
       
 <hr>
 
