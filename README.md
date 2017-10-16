@@ -168,7 +168,7 @@ Em portugues:
 
 1. iteráveis
    
-   * listas
+   * [listas](https://docs.python.org/2/tutorial/datastructures.html#)
       * fila
       * pilha
       * lista
