@@ -121,6 +121,8 @@ Cursos de Python:
 
 #### Alua 03- (16/10)
 
+[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2003.ipynb)
+
 1. Palavras reservadas
 
    * [Lista de palavras reservadas do Python 2.7x](https://docs.python.org/2/reference/lexical_analysis.html#keywords)
