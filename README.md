@@ -114,7 +114,9 @@ Cursos de Python:
 
    * Em portugues:
 
-      [para iniciantes](http://python.org.br/introducao)
+      [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
+      
+      [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
 
       
 <hr>
