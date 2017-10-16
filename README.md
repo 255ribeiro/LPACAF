@@ -8,6 +8,7 @@ Forum de comunicação do curso:
 [https://groups.google.com/forum/#!forum/20172-lpacaf](https://groups.google.com/forum/#!forum/20172-lpacaf)
 
 <hr>
+
 ## Plano de Curso
 
 <hr>
