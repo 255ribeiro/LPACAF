@@ -173,9 +173,9 @@ Em portugues:
       * pilha
       * lista
       * operações em listas
-      * função range()
-      * função len()
-      * função list()
+         * função range()
+         * função len()
+         * função list()
     
    * tuples
    
