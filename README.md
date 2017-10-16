@@ -111,9 +111,9 @@ Forum de comunicação do curso:
 
 Cursos de Python:
 
-Em portugues:
+   Em portugues:
 
-[para iniciantes](http://python.org.br/introducao)
+      [para iniciantes](http://python.org.br/introducao)
 
       
 <hr>
