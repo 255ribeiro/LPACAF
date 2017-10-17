@@ -3,7 +3,7 @@
 
 1. Baixar o instalador da versão de Avaliação do Rhinoceros no site [www.rhino3d.com](www.rhino3d.com)
 
-   -  [Página do download](www.rhino3d.com/download/rhino/5/latest)
+   -  [Link direto da página de download](www.rhino3d.com/download/rhino/5/latest)
    
    
       ![www.rhino3d.com/download/rhino/5/latest](./rhino_download.png)
