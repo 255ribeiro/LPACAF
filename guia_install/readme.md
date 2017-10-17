@@ -24,7 +24,7 @@
    - [Link direto para a página de download](https://www.rhino3d.com/download/grasshopper/1.0/wip/rc)
    
    
-    ![https://www.rhino3d.com/download/grasshopper/1.0/wip/rc](./grasshopper_download.png =50x)
+    ![https://www.rhino3d.com/download/grasshopper/1.0/wip/rc](./grasshopper_download.png )
     
     
       - Informe seu e-mail e clique em next;
