@@ -6,9 +6,9 @@
    -  [Página do download](www.rhino3d.com/download/rhino/5/latest)
    
    
-![Página de Download](./rhino_download.png)
+      ![www.rhino3d.com/download/rhino/5/latest](./rhino_download.png)
 
-Informe seu e-mail e clique em next
+   Informe seu e-mail e clique em next
 
 
 1. 
