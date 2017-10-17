@@ -6,5 +6,5 @@
    -  [Página do download](www.rhino3d.com/download/rhino/5/latest)
    
    
-![Página de download](/rhino_download.png)
+![](/rhino_download.png)
     
