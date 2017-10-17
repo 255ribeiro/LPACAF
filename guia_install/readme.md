@@ -27,11 +27,13 @@
     ![https://www.rhino3d.com/download/grasshopper/1.0/wip/rc](./grasshopper_download.png)
     
     
-    - Informe seu e-mail e clique em next.
+      - Informe seu e-mail e clique em next.
       
-      - Salve o instalador e execute
+      - Salve o instalador
       
-      - Siga as instruções de instalação
+      - feche o Rhinoceros
+      
+      - execute o instalador e siga as instruções de instalação
     
       - Com  o Grasshopper instalado é possível editar algoritmos no ambiente gráfico. pela linha de comando digite *Grasshopper*
       
