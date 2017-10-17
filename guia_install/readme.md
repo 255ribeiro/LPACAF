@@ -8,13 +8,13 @@
    
       ![www.rhino3d.com/download/rhino/5/latest](./rhino_download.png)
 
-      - Informe seu e-mail e clique em next.
+      - Informe seu e-mail e clique em next;
       
-      - Salve o instalador e execute
+      - Salve o instalador e execute;
       
-      - Siga as instruções de instalação
+      - Siga as instruções de instalação;
     
-      - Com  o Rhino instalado é possível editar e rodar código em Python. Pela linha de comando digite *EditPythonScript*
+      - Com  o Rhino instalado é possível editar e rodar código em Python. Na linha de comando digite *EditPythonScript*, ou pelos menus procure por Tools -> Python Script -> Edit.
        
       ![Tela do editor de scrips Python do Rhino](./EditPythonScript.png)
           
@@ -27,15 +27,17 @@
     ![https://www.rhino3d.com/download/grasshopper/1.0/wip/rc](./grasshopper_download.png)
     
     
-      - Informe seu e-mail e clique em next.
+      - Informe seu e-mail e clique em next;
       
-      - Salve o instalador
+      - salve o instalador;
       
-      - feche o Rhinoceros
+      - feche o Rhinoceros;
       
-      - execute o instalador e siga as instruções de instalação
+      - execute o instalador e siga as instruções de instalação;
+      
+      - abra o rhinoceros;
     
-      - Com  o Grasshopper instalado é possível editar algoritmos no ambiente gráfico. pela linha de comando digite *Grasshopper*
+      - Com  o Grasshopper instalado é possível editar algoritmos no ambiente gráfico. Na linha de comando digite *Grasshopper*
       
       
     
