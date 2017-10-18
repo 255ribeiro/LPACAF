@@ -74,6 +74,8 @@ Forum de comunicação do curso:
    
       [Between the Folds](https://www.betweenthefolds.com/)
       
+   * [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
+      
 <hr>
 
 
