@@ -14,7 +14,7 @@ Link direto para a página de download do [**Rhinoceros 5**](www.rhino3d.com/dow
 
 * Siga as instruções de instalação;
 
-Com  o **Rhinoceros** instalado é possível editar e rodar código em Python. Na linha de comando digite:
+* Com  o **Rhinoceros** instalado é possível editar e rodar código em Python. Na linha de comando digite:
 
     EditPythonScript
 
@@ -42,7 +42,7 @@ ou, utilizando o menu, procure por **Tools -> Python Script -> Edit**.
 
 * abra o **Rhinoceros**;
 
-Com  o **Grasshopper** instalado é possível editar algoritmos no ambiente gráfico. Na linha de comando digite:
+* Com  o **Grasshopper** instalado é possível editar algoritmos no ambiente gráfico. Na linha de comando digite:
 
     Grasshopper
 
@@ -56,7 +56,7 @@ Com  o **Grasshopper** instalado é possível editar algoritmos no ambiente grá
 
 ![www.food4rhino.com](./food4rhino.jpg )
 
-Após o registro, na página inicial do site, pesquise por **GHPYTHON**
+* Após o registro, na página inicial do site, pesquise por **GHPYTHON**
 
  [Link direto para a página de download do *GHPYTHON* ](http://www.food4rhino.com/app/ghpython#downloads_list)
 
