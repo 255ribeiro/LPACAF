@@ -73,9 +73,9 @@ Após o registro, na página inicial do site, pesquise por **GHPYTHON**
 
 * Se o download não começar, verifique se o seu navegador está bloqueando pop-ups. No Google Chrome o aviso de boqueio fica à direita do endereço do site.
 
-![Aviso de bloquei de pop-ups](./f4rPopUp.jpg)
+![Aviso de bloqueio de pop-ups](./f4rPopUp.jpg)
 
-* Clique no ícone do aviso de bloquei e escolha abrir o endereço, ou desbloqueie os pop-ups para o site [Food4Rhino.com](www.food4rhino.com) e clique em concluir.
+* Clique no ícone do aviso de bloqueio e escolha abrir o endereço, ou desbloqueie os pop-ups para o site [Food4Rhino.com](www.food4rhino.com) e clique em concluir.
 
 ![desbloquear pop-ups](./popUmblock.jpg)
 
