@@ -1,7 +1,7 @@
 # Instalação do Ambiente de Trabalho
 ### Rhino, Grasshopper, Grasshopper Python Component
 
-### 1. Baixar o instalador da versão de Avaliação do Rhinoceros no site [www.rhino3d.com](www.rhino3d.com)
+### 1. Baixar o instalador da versão de Avaliação do Rhinoceros no site [rhino3d.com](www.rhino3d.com)
 
 [Link direto para a página de download](www.rhino3d.com/download/rhino/5/latest)
 
@@ -14,12 +14,12 @@
 
       - Siga as instruções de instalação;
 
-      - Com  o Rhino instalado é possível editar e rodar código em Python. Na linha de comando digite *EditPythonScript*, ou pelos menus procure por Tools -> Python Script -> Edit.
+Com  o Rhino instalado é possível editar e rodar código em Python. Na linha de comando digite *EditPythonScript*, ou pelos menus procure por Tools -> Python Script -> Edit.
 
-      ![Tela do editor de scrips Python do Rhino](./EditPythonScript.png)
+![Tela do editor de scrips Python do Rhino](./EditPythonScript.png)
 
 
-### 2. Baixar o Grasshopper no site [http://www.grasshopper3d.com/](http://www.grasshopper3d.com/)
+### 2. Baixar o Grasshopper no site [grasshopper3d.com](http://www.grasshopper3d.com/)
 
    - [Link direto para a página de download](https://www.rhino3d.com/download/grasshopper/1.0/wip/rc)
 
@@ -37,22 +37,21 @@
 
       - abra o Rhinoceros;
 
-      - Com  o Grasshopper instalado é possível editar algoritmos no ambiente gráfico. Na linha de comando digite *Grasshopper*
+Com  o Grasshopper instalado é possível editar algoritmos no ambiente gráfico. Na linha de comando digite *Grasshopper*
 
 
-![Tela do Grasshopper](./tela_grasshopper.png=250x )
+![Tela do Grasshopper](./tela_grasshopper.png )
 
 
-### 3. Baixar o Grasshopper Python Component no site [www.food4rhino.com](www.food4rhino.com)
+### 3. Baixar o Grasshopper Python Component no site [food4rhino.com](www.food4rhino.com)
 
     - É necessário registrar-se no site
 
-![www.food4rhino.com](./food4rhino.png )
+![www.food4rhino.com](./food4rhino.jpg )
 
-    - Após o registro, na página inicial do site, pesquise por *GHPYTHON*
+Após o registro, na página inicial do site, pesquise por *GHPYTHON*
+
  [Link direto para a página de download](http://www.food4rhino.com/app/ghpython#downloads_list)
 
 
-![Search in Food4Rhino.com](./f4rsearch.png )
-
-    
+![Pesquisa em Food4Rhino.com](./f4rsearch.jpg)
