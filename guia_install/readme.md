@@ -85,7 +85,7 @@ ou, utilizando o menu, procure por **Tools -> Python Script -> Edit**.
 
 ![Pasta das extensões do Grasshopper](./ghSpecialFolders.jpg)
 
-* Esse atalho serve para abrir a pasta onde são instalados as extensões (plug-ins) do **Grasshopper**: a pasta **Libraries**;
+* Esse atalho serve para abrir a pasta onde são instalados as extensões (plug-ins) do **Grasshopper**, a pasta **Libraries**;
 
 * a pasta pode estar vazia , caso nenhuma extensão tenha sido instalada no seu computador, ou pode conter muitos arquivos;
 
