@@ -7,7 +7,7 @@ Link direto para a página de download do [**Rhinoceros 5**](www.rhino3d.com/dow
 
 ![www.rhino3d.com/download/rhino/5/latest](./rhino_download.png)
 
-* Informe seu e-mail e clique em *next*;
+* Informe seu e-mail e clique em **next**;
 
 * Salve o instalador e execute;
 
@@ -25,7 +25,7 @@ ou, utilizando o menu, procure por **Tools -> Python Script -> Edit**.
 
 ### 2. Baixar o **Grasshopper** no site [grasshopper3d.com](http://www.grasshopper3d.com/)
 
-   - Link direto para a página de download do [Graasshopper](https://www.rhino3d.com/download/grasshopper/1.0/wip/rc)
+   - Link direto para a página de download do [Grasshopper](https://www.rhino3d.com/download/grasshopper/1.0/wip/rc)
 
 
 ![https://www.rhino3d.com/download/grasshopper/1.0/wip/rc](./grasshopper_download.png )
