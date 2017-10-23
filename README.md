@@ -33,20 +33,20 @@ Forum de comunicação do curso:
    * História da programação
    * Programação Aplicada à arquitetura e urbanismo
    * A linguagem Python
-   
+
 1. Instalação
 
     * CPython 2.7x IDLE
-   
-    
+
+
 1. Operações matemáticas no Python Shell
 
    * Operadores matemáticos
-   
+
    * Divisão inteira e divisão real
-        
+
       * Mod e Div
-      
+
    * Níveis de Parênteses
 
 
@@ -56,26 +56,26 @@ Forum de comunicação do curso:
 1. Referências e *links* ùteis
 
    * Python
-   
+
       [Python Foundaition](https://www.python.org/)
-      
+
       [Python Brasil](http://python.org.br/)
-      
+
    * Rhinoceros
-   
+
       [Rhino3D.com](http://www.rhino3d.com/)
-      
+
       [food 4 Rhino](http://www.food4rhino.com/)
    * Grasshopper
-   
+
       [Grasshopper 3d](http://www.grasshopper3d.com/)
-      
+
    * Between the Folds
-   
+
       [Between the Folds](https://www.betweenthefolds.com/)
-      
+
    * [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
-      
+
 <hr>
 
 
@@ -97,17 +97,17 @@ Forum de comunicação do curso:
    * salvar arquivo
    * editar
    * executar
-   
-   
+
+
 1. Entradas e saídas
-        
-    
+
+
 1. Condicionais lógicas
 
    * if
    * else
    * elif
-        
+
 1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
 
 1. Referências e *links* ùteis
@@ -117,10 +117,10 @@ Cursos de Python:
    * Em portugues:
 
       [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
-      
+
       [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
 
-      
+
 <hr>
 
 #### Alua 03- (16/10)
@@ -140,23 +140,23 @@ Cursos de Python:
 
    * Importanto módulos
        * [Biblioteca keyword](https://docs.python.org/2/library/keyword.html)
-       
+
        * [Biblioteca Math](https://docs.python.org/2/library/math.html)
             * math.sin()
             * math.sqrt()
-            
+
        * [Biblioteca datetime](https://docs.python.org/2/library/datetime.html)
             * datetime.date()
             * datetime.timedelta()
-            
+
    * 3 formas de importação
-   
+
       * import *nome_do_módulo*
       * import *nome_do_módulo* as *chamada_do_módulo*
       * from *nome_do_módulo* import *função_ou_classe_do_módulo*
-      
+
    * importação from \_\_future\_\_
-   
+
 1. Funções definidas pelo usuário
 
    * def
@@ -168,18 +168,20 @@ Cursos de Python:
 1. Referências e *links* ùteis
 
    * IDE [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-   
+
    * Distribuição [Anaconda](https://www.anaconda.com/download/)
-   
+
    * O software [Processing](https://processing.org/download/) possui um modo de programação em Pytnon
-      
+
 <hr>
 
 
 #### Alua 04 - (30/10)
 
+[Arquivo](./Aula_04/AULA_04.gh)
+
 1. iteráveis
-   
+
    * [listas](https://docs.python.org/2/tutorial/datastructures.html#)
       * fila
       * pilha
@@ -188,9 +190,9 @@ Cursos de Python:
          * função range()
          * função len()
          * função list()
-    
+
    * tuples
-   
+
    * strings
 
 1. Repetições
@@ -198,11 +200,11 @@ Cursos de Python:
    * While
 
    * for
-   
+
 1. Exercício 04 - Sequência de Fibonacci
 
 1. Referências e *links* ùteis
-      
+
 <hr>
 
 #### Alua 05 - (06/11)
@@ -214,12 +216,12 @@ Cursos de Python:
    * Definições
    * Retorno
    * Chamada
-   
-1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas. 
+
+1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas.
 
 1. Referências e *links* ùteis
 
-      
+
 <hr>
 
 
@@ -248,7 +250,7 @@ Cursos de Python:
    * Exemplos
    * Listas
    * Exemplos
-   
+
 1. Sequência de colunas no Grasshopper
 
 1. Grasshopper Python Component (GhPython)
@@ -258,7 +260,7 @@ Cursos de Python:
 1. Referências e *links* ùteis
 
 
-      
+
 <hr>
 
 
@@ -267,12 +269,12 @@ Cursos de Python:
 
 1. Malha de pontos regular
    * Duplo for
-   
+
 1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
 1. Referências e *links* ùteis
 
-      
+
 <hr>
 
 
@@ -280,13 +282,13 @@ Cursos de Python:
 
 1. Malha de pontos irregular
    * recebendo listas
-   
+
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
 
 
-      
+
 <hr>
 
 
@@ -299,7 +301,7 @@ Cursos de Python:
 1. Referências e *links* ùteis
 
 
-      
+
 <hr>
 
 
@@ -316,7 +318,7 @@ Cursos de Python:
 
 
 
-      
+
 <hr>
 
 
@@ -329,7 +331,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-      
+
 <hr>
 
 
@@ -342,7 +344,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-      
+
 <hr>
 
 
@@ -356,7 +358,7 @@ Cursos de Python:
 1. Referências e *links* ùteis
 
 
-      
+
 <hr>
 
 
@@ -368,7 +370,7 @@ Cursos de Python:
 1. Exercício 14 - ????
 
 1. Referências e *links* ùteis
-      
+
 <hr>
 
 
@@ -377,7 +379,7 @@ Cursos de Python:
 #### Alua 15 - (29/01)
 
 1. Orientação de trabalhos
-      
+
 <hr>
 
 
@@ -385,7 +387,7 @@ Cursos de Python:
 #### Alua 16 - (05/02)
 
 1. Orientação de trabalhos
-      
+
 <hr>
 
 
@@ -394,21 +396,8 @@ Cursos de Python:
 
 1. Encerramento do Curso
 
-      
-<hr>
 
-      
 <hr>
 
 
-
-
-
-
-
-
-
-
-
-
-
+<hr>
