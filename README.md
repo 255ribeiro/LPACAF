@@ -9,7 +9,7 @@ Forum de comunicação do curso:
 
 <hr>
 
-* [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
+### [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
 
 ## Plano de Curso
 
