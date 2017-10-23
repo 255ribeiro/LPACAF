@@ -9,6 +9,8 @@ Forum de comunicação do curso:
 
 <hr>
 
+* [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
+
 ## Plano de Curso
 
 <hr>
@@ -74,7 +76,7 @@ Forum de comunicação do curso:
 
       [Between the Folds](https://www.betweenthefolds.com/)
 
-   * [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
+
 
 <hr>
 
