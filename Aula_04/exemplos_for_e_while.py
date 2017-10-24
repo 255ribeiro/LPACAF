@@ -54,4 +54,4 @@ print "Fim do loop for"
 # estado final da lista
 print "estado final da lista 2:\n", lista2
 print " fim do programa"
-# raw_input('pressione enter para sair')
+# raw_input("pressione enter para sair")

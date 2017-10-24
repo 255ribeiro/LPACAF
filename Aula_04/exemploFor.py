@@ -33,4 +33,4 @@ for elemento in indices:
 for i in range(4):
     print lista1[i], "-", lista2[i]
 print " fim do programa"
-# raw_input('pressione enter para sair')
+# raw_input("pressione enter para sair")
