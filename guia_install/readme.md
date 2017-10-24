@@ -1,9 +1,9 @@
 # Instalação do Ambiente de Trabalho
 ### Rhino, Grasshopper, Grasshopper Python Component
 
-### 1. Baixar o instalador da versão de Avaliação do **Rhinoceros** no site [rhino3d.com](www.rhino3d.com)
+### 1. Baixar o instalador da versão de Avaliação do **Rhinoceros** no site [rhino3d.com](http://www.rhino3d.com)
 
-Link direto para a página de download do [**Rhinoceros 5**](www.rhino3d.com/download/rhino/5/latest)
+Link direto para a página de download do [**Rhinoceros 5**](http://www.rhino3d.com/download/rhino/5/latest)
 
 ![www.rhino3d.com/download/rhino/5/latest](./rhino_download.png)
 
@@ -49,7 +49,7 @@ ou, utilizando o menu, procure por **Tools -> Python Script -> Edit**.
 
 <hr>
 
-### 3. Baixar o **Grasshopper Python Component** (**GHPYTHON**) no site [food4rhino.com](www.food4rhino.com)
+### 3. Baixar o **Grasshopper Python Component** (**GHPYTHON**) no site [food4rhino.com](http://www.food4rhino.com)
 
 * É necessário registrar-se no site
 
@@ -74,7 +74,7 @@ ou, utilizando o menu, procure por **Tools -> Python Script -> Edit**.
 
 ![Aviso de bloqueio de pop-ups](./f4rPopUp.jpg)
 
-* Clique no ícone do aviso de bloqueio e escolha abrir o endereço, ou desbloqueie os pop-ups para o site [Food4Rhino.com](www.food4rhino.com) e clique em concluir.
+* Clique no ícone do aviso de bloqueio e escolha abrir o endereço, ou desbloqueie os pop-ups para o site [Food4Rhino.com](http://www.food4rhino.com) e clique em concluir.
 
 ![desbloquear pop-ups](./popUmblock.jpg)
 
