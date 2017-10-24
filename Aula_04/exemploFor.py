@@ -25,10 +25,12 @@ indices = range(tam)
 # mostrando a lista de indices
 print "lista de indices", indices
 
+print "percorrendo a lista de indices"
 # percorrendo a lista de indices com o comando for
 for elemento in indices:
     print "elemento =", elemento
 
+print "Combinando os valores de indices iguais das duas listas "
 # combinando duas listas de mesmo tamanho com o comando for
 for i in range(4):
     print lista1[i], "-", lista2[i]

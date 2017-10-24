@@ -2,7 +2,7 @@
 
 # Criando a lista 1
 lista1 = range(0, 10, 2)
-# copiando a lista 1
+# Criando a lista 2
 lista2 = range(0, 10, 2)
 
 # mostrando a lista 1
@@ -35,7 +35,7 @@ print "Fim do loop while"
 # estado final da lista
 print "estado final da lista 1:\n", lista1
 
-
+print "------------------------------------------"
 # mostrando a lista 2
 print " estado inicial da lista 2\n", lista1
 
