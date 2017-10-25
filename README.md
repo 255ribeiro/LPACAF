@@ -250,7 +250,7 @@ Cursos de Python:
    * Comando Loft
 
 
-1. Instalação do GrassHopper
+1. Instalação do Grasshopper
 1. Instalação do Grasshopper Python Component
 
 1. Interface do Grasshopper
