@@ -207,6 +207,13 @@ Cursos de Python:
 
 1. Exercício 04 - Sequência de Fibonacci
 
+1. Arquivos dos Exemplos da Aula
+
+    [Arquivo .gh da Aula - Final](./Aula_04/AULA_04_FINAL.gh) <br />
+    [Exemplos Loops While e For](./Aula_04/exemplos_for_e_while.py) <br />
+    [Exemplo Loop For](./Aula_04/exemploFor.py)
+
+
 1. Referências e *links* ùteis
 
 <hr>

@@ -39,7 +39,7 @@ print "estado final da lista 1:\n", lista1
 
 print "------------------------------------------"
 # mostrando a lista 2
-print " estado inicial da lista 2\n", lista1
+print " estado inicial da lista 2\n", lista2
 
 print "loop for"
 # inicio do loop for
