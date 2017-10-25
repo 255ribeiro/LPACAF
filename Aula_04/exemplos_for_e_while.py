@@ -1,5 +1,7 @@
 # coding= utf8
 
+# Exemplos de loops while e for para ligar duas listas
+
 # Criando a lista 1
 lista1 = range(0, 10, 2)
 # Criando a lista 2
