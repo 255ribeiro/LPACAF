@@ -180,7 +180,7 @@ Cursos de Python:
 <hr>
 
 
-#### Alua 04 - (30/10)
+#### Alua 04 - (23/10)
 
 [Arquivo da Aula](./Aula_04/AULA_04.gh) <br /> Clique com o botão direito para baixar
 
@@ -218,7 +218,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 05 - (06/11)
+#### Alua 05 - (30/11)
 
 1. Alguns comandos do Rhinoceros
 
@@ -271,7 +271,7 @@ Cursos de Python:
 
 
 
-#### Alua 06 - (13/11)
+#### Alua 06 - (06/11)
 
 1. instalação do Rhinoceros
 
@@ -310,7 +310,7 @@ Cursos de Python:
 
 
 
-#### Alua 07 - (20/11)
+#### Alua 07 - (13/11)
 
 1. Malha de pontos regular
    * Duplo for
@@ -323,7 +323,7 @@ Cursos de Python:
 <hr>
 
 
-#### Alua 08 - (27/11)
+#### Alua 08 - (20/11)
 
 1. Malha de pontos irregular
    * recebendo listas
@@ -337,7 +337,7 @@ Cursos de Python:
 <hr>
 
 
-#### Alua 09 - (04/12)
+#### Alua 09 - (27/12)
 
 1. Edfício de Multiplos pavimentos
 
@@ -352,7 +352,7 @@ Cursos de Python:
 
 
 
-#### Alua 10 - (11/12)
+#### Alua 10 - (04/12)
 
 
 1. Treliça
@@ -368,7 +368,7 @@ Cursos de Python:
 
 
 
-#### Alua 11 - (18/12)
+#### Alua 11 - (11/12)
 
 1. Entendenro mensagens de erro
 
@@ -381,7 +381,7 @@ Cursos de Python:
 
 
 
-#### Alua 12 - (08/01)
+#### Alua 12 - (18/01)
 
 1. trabalhando com Planos Parte I
 
@@ -394,7 +394,7 @@ Cursos de Python:
 
 
 
-#### Alua 13 - (15/01)
+#### Alua 13 - (08/01)
 
 1. trabalhando com Planos Parte II
 
@@ -408,7 +408,7 @@ Cursos de Python:
 
 
 
-#### Alua 14 - (22/01)
+#### Alua 14 - (15/01)
 
 1. Fractais
 
@@ -421,7 +421,7 @@ Cursos de Python:
 
 
 
-#### Alua 15 - (29/01)
+#### Alua 15 - (22/01)
 
 1. Orientação de trabalhos
 
