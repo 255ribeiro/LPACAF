@@ -259,6 +259,9 @@ Cursos de Python:
 
 1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas.
 
+1. Arquivos dos Exemplos da Aula
+    * [Pilar Tubular](./Aula_05/exemplo_rhino_pilar_tubular.py)
+
 1. Referências e *links* ùteis
 
     * [Rhino Python Primer](https://www.rhino3d.com/download/ironpython/5.0/rhinopython1)
