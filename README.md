@@ -252,6 +252,7 @@ Cursos de Python:
     * imptando Bibliotecas
     * Criando geometria (rs.Add...)
     * Utilizando variáveis
+    * Entrada de dados (rs.Get...)
     * Loops
     * Armazenando Geometria em listas.
 
