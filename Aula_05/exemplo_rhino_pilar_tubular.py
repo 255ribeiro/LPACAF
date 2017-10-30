@@ -1,6 +1,6 @@
 import rhinoscriptsyntax as rs
 
-print "desenhando um circulo"
+print "Pilar Circular"
 # permite ao usuario clicar em um ponto
 # o ponto e armazenado na variavel pt1
 pt1 = rs.GetPoint("digite o ponto central")
