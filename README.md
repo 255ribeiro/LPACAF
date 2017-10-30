@@ -220,17 +220,50 @@ Cursos de Python:
 
 #### Alua 05 - (06/11)
 
-1. Manipulação de listas
+1. Alguns comandos do Rhinoceros
 
-1. Criação de funções
+    * Curvas
+        - Point
+        - Line
+        - Circle
+        - Arc
+        - Polyline
+        - Curve
+        - InterpCrv
 
-   * Definições
-   * Retorno
-   * Chamada
+    * Superfícies
+        * PlanarSrf
+        * ExtrudeCrv
+        * ExtrudeSrf
+        * Pipe
+        * Loft
+
+    * Sólidos
+        - Cap
+        - Box
+        - Sphere
+        - BooleanUnion
+        - BooleanDifference
+        - BooleanIntersection
+
+1. Editor de Python do Rhinoceros
+
+    * Abrindo o Editor
+    * imptando Bibliotecas
+    * Criando geometria (rs.Add...)
+    * Utilizando variáveis
+    * Loops
+    * Armazenando Geometria em listas.
+
 
 1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas.
 
 1. Referências e *links* ùteis
+
+    * [Rhino Python Primer](https://www.rhino3d.com/download/ironpython/5.0/rhinopython1)
+    * [Tutorial em vídeo](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
+
+
 
 
 <hr>
