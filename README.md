@@ -82,7 +82,6 @@ Forum de comunicação do curso:
 
 <hr>
 
-
 #### Alua 02 - (09/10)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2002.ipynb)
@@ -179,7 +178,6 @@ Cursos de Python:
 
 <hr>
 
-
 #### Alua 04 - (23/10)
 
 [Arquivo da Aula](./Aula_04/AULA_04.gh) <br /> Clique com o botão direito para baixar
@@ -201,7 +199,7 @@ Cursos de Python:
 
 1. Repetições
 
-   * While
+   * while
 
    * for
 
@@ -272,10 +270,7 @@ Cursos de Python:
 
 <hr>
 
-
-
 #### Alua 06 - (06/11)
-
 
 1. Instalação do Grasshopper
 1. Instalação do Grasshopper Python Component
@@ -297,11 +292,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
-
 <hr>
-
-
 
 #### Alua 07 - (13/11)
 
@@ -312,9 +303,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
 <hr>
-
 
 #### Alua 08 - (20/11)
 
@@ -325,10 +314,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
-
 <hr>
-
 
 #### Alua 09 - (27/12)
 
@@ -338,12 +324,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
-
 <hr>
-
-
-
 
 #### Alua 10 - (04/12)
 
@@ -354,12 +335,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
-
-
 <hr>
-
-
 
 #### Alua 11 - (11/12)
 
@@ -369,10 +345,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
 <hr>
-
-
 
 #### Alua 12 - (18/01)
 
@@ -382,10 +355,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
 <hr>
-
-
 
 #### Alua 13 - (08/01)
 
@@ -395,11 +365,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-
-
 <hr>
-
-
 
 #### Alua 14 - (15/01)
 
@@ -411,16 +377,11 @@ Cursos de Python:
 
 <hr>
 
-
-
-
 #### Alua 15 - (22/01)
 
 1. Orientação de trabalhos
 
 <hr>
-
-
 
 #### Alua 16 - (05/02)
 
@@ -428,14 +389,9 @@ Cursos de Python:
 
 <hr>
 
-
-
 #### Alua 17 - (19/02)
 
 1. Encerramento do Curso
 
-
 <hr>
-
-
 <hr>
