@@ -268,7 +268,7 @@ Cursos de Python:
 
     * [Rhino Python Primer](https://www.rhino3d.com/download/ironpython/5.0/rhinopython1)
 
-    * [Tutorial em vídeo](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
+    * [Tutorial Rhino Python em vídeo (eng)](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
 
 <hr>
 
