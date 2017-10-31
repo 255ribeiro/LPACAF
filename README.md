@@ -264,7 +264,10 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
+    * [Tutorial Rhino Modelagem 3D](https://www.youtube.com/watch?v=NKkXMKKA_Cs&list=PL68tctImfhCR2zFIxzEs95v5ETSXe9r14)
+
     * [Rhino Python Primer](https://www.rhino3d.com/download/ironpython/5.0/rhinopython1)
+
     * [Tutorial em vídeo](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
 
 
