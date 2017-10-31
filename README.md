@@ -270,24 +270,11 @@ Cursos de Python:
 
     * [Tutorial em vídeo](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
 
-
-
-
 <hr>
 
 
 
 #### Alua 06 - (06/11)
-
-1. instalação do Rhinoceros
-
-
-1. Interface do Rhinoceros
-   * Linha de comando
-   * Comandos de curvas
-   * Comando Pipe
-   * Comando Extrude
-   * Comando Loft
 
 
 1. Instalação do Grasshopper
