@@ -103,7 +103,9 @@ Forum de comunicação do curso:
 
 
 1. Entradas e saídas
-
+    * input()
+    * raw_input()
+    * print
 
 1. Condicionais lógicas
 
@@ -393,7 +395,12 @@ Cursos de Python:
 
 1. Encerramento do Curso
 
-[teste](http://designalyze.com/course/intro-c-scripting-grasshopper)
+
+2. Referências e *links* ùteis
+
+[Tutoriais de C# para Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper)
+[Compilando um componente Python no Rhino 6](https://discourse.mcneel.com/t/tutorial-creating-a-grasshopper-component-with-the-python-ghpy-compiler/38552)
+
 
 <hr>
 <hr>
