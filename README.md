@@ -401,6 +401,5 @@ Cursos de Python:
 [Tutoriais de C# para Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper)
 [Compilando um componente Python no Rhino 6](https://discourse.mcneel.com/t/tutorial-creating-a-grasshopper-component-with-the-python-ghpy-compiler/38552)
 
-
 <hr>
 <hr>
