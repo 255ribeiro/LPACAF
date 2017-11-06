@@ -261,7 +261,6 @@ Cursos de Python:
 
 1. Arquivos dos Exemplos da Aula
     * [Pilar Tubular - Extrude](./Aula_05/exemplo_rhino_pilar_tubular_extrude.py)
-    
     * [Pilar Tubular - Pipe](./Aula_05/exemplo_rhino_pilar_tubular.py)
 
 1. Referências e *links* ùteis
