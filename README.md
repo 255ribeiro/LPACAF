@@ -332,17 +332,22 @@ Cursos de Python:
 
 #### Alua 09 - (27/12)
 
-1. Edfício de Multiplos pavimentos
+1. Esquadrias
 
-1. Exercício 9 - ????
+1. Montantes verticais regulares
 
-1. Referências e *links* ùteis
+1. Montantes verticais alternados
+
 
 <hr>
 
 #### Alua 10 - (04/12)
 
+1. Edfício de Multiplos pavimentos
 
+1. Exercício 9 - ????
+
+1. Referências e *links* ùteis
 
 
 <hr>
