@@ -304,16 +304,22 @@ Cursos de Python:
 
 #### Alua 07 - (13/11)
 
-1. Malha de pontos regular
-   * Duplo for
+1. Treliças
 
-1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
+1. Exercício 10 - ????
+
 
 1. Referências e *links* ùteis
 
 <hr>
 
 #### Alua 08 - (20/11)
+
+. Malha de pontos regular
+   * Duplo for
+
+1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
+
 
 1. Malha de pontos irregular
    * recebendo listas
@@ -337,11 +343,7 @@ Cursos de Python:
 #### Alua 10 - (04/12)
 
 
-1. Treliça
 
-1. Exercício 10 - ????
-
-1. Referências e *links* ùteis
 
 <hr>
 
