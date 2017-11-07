@@ -293,6 +293,11 @@ Cursos de Python:
 
 1. Exercício 06 - Criar sequência de colunas do GhPython.
 
+1. Arquivos dos Exemplos da Aula
+    * [Sequencia de Pilares - Rhino Python](./Aula_06/exemplo_rhino_pilotis_tubulares_pipe.py)
+    * [Exemplo Didático - Revisão do Loop for](./Aula_06/exemplo_didatico_revisao_do_loop_for.py)
+    * [Seqência de Pilares - Grasshopper](./Aula_06/Aula_06_sequencia_de_pilares.gh)
+
 1. Referências e *links* ùteis
 
 <hr>
