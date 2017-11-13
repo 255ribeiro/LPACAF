@@ -304,9 +304,10 @@ Cursos de Python:
 
 #### Alua 07 - (13/11)
 
+[Arquivo base da Aula](./Aula_07/AULA_07.gh)
+
 1. Treliças
 
-1. Exercício 10 - ????
 
 
 1. Referências e *links* ùteis
