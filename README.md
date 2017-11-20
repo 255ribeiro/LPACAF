@@ -309,12 +309,17 @@ Cursos de Python:
 1. Treliças
 
 
+1. Arquivos dos Exemplos da Aula
+    * [Treliças](./Aula_07/AULA_07_final.gh)
+
 
 1. Referências e *links* ùteis
 
 <hr>
 
 #### Alua 08 - (20/11)
+
+[Arquivo base da Aula](./Aula_08/AULA_08.gh)
 
 . Malha de pontos regular
    * Duplo for
