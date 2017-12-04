@@ -304,7 +304,7 @@ Cursos de Python:
 
 #### Alua 07 - (13/11)
 
-[Arquivo base da Aula](./Aula_07/AULA_07.gh)
+[Arquivo base da Aula](./Aula_07/AULA_07_base.gh)
 
 1. Treliças
 
@@ -319,20 +319,28 @@ Cursos de Python:
 
 #### Alua 08 - (20/11)
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08.gh)
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
 
 . Malha de pontos regular
    * Duplo for
 
 1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
+[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
+
 
 1. Malha de pontos irregular
    * recebendo listas
 
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_base.gh)
+
+[Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_final.gh)
+
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
+
+
 
 <hr>
 
@@ -349,11 +357,16 @@ Cursos de Python:
 
 #### Alua 10 - (04/12)
 
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_10_base.gh)
+
+
 1. Edfício de Multiplos pavimentos
 
 1. Exercício 9 - ????
 
 1. Referências e *links* ùteis
+
+[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_10_final.gh)
 
 
 <hr>
