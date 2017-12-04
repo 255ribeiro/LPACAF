@@ -319,7 +319,7 @@ Cursos de Python:
 
 #### Alua 08 - (20/11)
 
-[Arquivo base da Aula](./Aula_08/AULA_08.gh)
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08.gh)
 
 . Malha de pontos regular
    * Duplo for
