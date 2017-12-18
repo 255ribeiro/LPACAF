@@ -332,9 +332,9 @@ Cursos de Python:
 1. Malha de pontos irregular
    * recebendo listas
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_base.gh)
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
 
-[Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_final.gh)
+[Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
@@ -344,20 +344,24 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 09 - (27/12)
+#### Alua 09 - (27/11)
 
-1. Esquadrias
+1. Malha de pontos irregular
+   * recebendo listas
 
-1. Montantes verticais regulares
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_base.gh)
 
-1. Montantes verticais alternados
+[Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_final.gh)
 
+1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
+
+1. Referências e *links* ùteis
 
 <hr>
 
 #### Alua 10 - (04/12)
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_10_base.gh)
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_base.gh)
 
 
 1. Edfício de Multiplos pavimentos
@@ -366,22 +370,12 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_10_final.gh)
+[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_final.gh)
 
 
 <hr>
 
 #### Alua 11 - (11/12)
-
-1. Entendenro mensagens de erro
-
-1. Exercício 11 - ????
-
-1. Referências e *links* ùteis
-
-<hr>
-
-#### Alua 12 - (18/01)
 
 1. trabalhando com Planos Parte I
 
@@ -389,11 +383,24 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
+
+<hr>
+
+#### Alua 12 - (18/01)
+
+1. trabalhando com Planos Parte II
+
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_base.gh)
+
+[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_final.gh)
+
+1. Referências e *links* ùteis
+
 <hr>
 
 #### Alua 13 - (08/01)
 
-1. trabalhando com Planos Parte II
+1. trabalhando com Planos Parte III
 
 1. Exercício 13 - ????
 
