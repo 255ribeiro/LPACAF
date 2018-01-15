@@ -412,6 +412,7 @@ Cursos de Python:
 
 1. Fractais
 
+[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_14/Sierpinski3Dbase.gh)
 1. Exercício 14 - ????
 
 1. Referências e *links* ùteis
