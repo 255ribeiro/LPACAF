@@ -43,11 +43,19 @@ Dias 09,10,11,12 de Abril* no Lcad - Faculdade de Arquitetura - UFBA
 
 **Download da ficha de inscrição:**
 
+<<<<<<< HEAD
 https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/LPACAF_inscricao_2018_1.doc
 
 <a href="./Ficha_de_inscricao/LPACAF_inscricao_2018_1.doc" download> Ficha de inscrição - Download</a>
 
 
+=======
+<a href="./Ficha_de_inscricao/Curso%20LPACAF%20Ficha%20de%20inscricao%202018_1.doc
+" download>
+ Ficha de inscrição - Download</a>
+
+https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/Curso%20LPACAF%20Ficha%20de%20inscricao%202018_1.doc
+>>>>>>> 5b405c3855460d930905bbce957be4b7cb83992f
 
 **Professor:**
 Fernando Ferraz Ribeiro

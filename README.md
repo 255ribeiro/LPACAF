@@ -5,6 +5,10 @@ Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 <hr>
 
+[Informações](./Ficha_de_inscricao/informacoes.md)
+
+<hr>
+
 Forum de comunicação do curso:
 
 [https://groups.google.com/forum/#!forum/20172-lpacaf](https://groups.google.com/forum/#!forum/20172-lpacaf)
