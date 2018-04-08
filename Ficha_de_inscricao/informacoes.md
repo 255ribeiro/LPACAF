@@ -43,8 +43,6 @@ Dias 09,10,11,12 de Abril* no Lcad - Faculdade de Arquitetura - UFBA
 
 **Download da ficha de inscrição:**
 
-[Ficha de inscrição](https://github.com/255ribeiro/LPACAF/blob/master/Ficha_de_inscricao/LPACAF_inscricao_2018_1.doc)
-
 <a href="LPACAF_inscricao_2018_1.doc" download> Ficha de inscrição - Download</a>
 
 
