@@ -62,4 +62,4 @@ O desenvolvimento da Ciência da Computação, e a sua consequente aplicação e
 
 Este curso pretende introduzir a lógica de programação como uma estratégia para a resolução de certos tipos de problema. A conexão com a prática profissional será dada através da aplicação direta da lógica na manipulação de formas nas interfaces de programação dos aplicativos (API) de ferramentas CAD.
 
-**OBS: O curso é gratúito e aberto para o público interno e externo da UFBA**
+**OBS: O curso é gratuito e aberto para o público interno e externo da UFBA**
