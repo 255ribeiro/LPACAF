@@ -26,14 +26,17 @@ Ter conhecimento de uma ferramenta CAD 3D.
 
 Python (CPython 2.7 idle), Rhinoceros 5, Grasshopper, Grasshopper Python Component.
 
-**período:**
+**Período:**
+
 12/04/2018 À 02/08/2018
+
 **Horário:**
+
 quintas  – 10:40 ás 12:30 (34 horas total)
 
 **Inscrições:**
 
-Dias 09,10,11,12 de Abril* no Lcad - Faculdade de Arquitetura - UFBA
+Dias 09,10,11,12 de Abril* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
 
 *ou até o preenchimento das vagas.
 
@@ -49,6 +52,7 @@ Dias 09,10,11,12 de Abril* no Lcad - Faculdade de Arquitetura - UFBA
 
 **Professor:**
 Fernando Ferraz Ribeiro
+
 **Informações:**
 fernando.ribeiro@ufba.br
 
