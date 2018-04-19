@@ -11,7 +11,7 @@ Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 Forum de comunicação do curso:
 
-[https://groups.google.com/forum/#!forum/20172-lpacaf](https://groups.google.com/forum/#!forum/20172-lpacaf)
+[https://groups.google.com/forum/#!forum/20181lpacaf](https://groups.google.com/forum/#!forum/20181lpacaf)
 
 <hr>
 
@@ -22,7 +22,7 @@ Forum de comunicação do curso:
 <hr>
 <hr>
 
-#### Alua 01 - (02/10)
+#### Aula 01 - (12/4/2018)
 
 
 [SLIDES](Aula%2001%20-%20introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20.pdf)
@@ -86,7 +86,7 @@ Forum de comunicação do curso:
 
 <hr>
 
-#### Alua 02 - (09/10)
+#### Aula 02 - (19/4/2018)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2002.ipynb)
 
@@ -132,7 +132,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 03- (16/10)
+#### Aula 03 - (26/4/2018)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2003.ipynb)
 
@@ -184,7 +184,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 04 - (23/10)
+#### Aula 04 - (3/5/2018)
 
 [Arquivo da Aula](./Aula_04/AULA_04.gh) <br /> Clique com o botão direito para baixar
 
@@ -222,7 +222,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 05 - (30/11)
+#### Aula 05 - (10/5/2018)
 
 1. Alguns comandos do Rhinoceros
 
@@ -277,7 +277,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 06 - (06/11)
+#### Aula 06 - (17/5/2018)
 
 1. Instalação do Grasshopper
 1. Instalação do Grasshopper Python Component
@@ -306,7 +306,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 07 - (13/11)
+#### Aula 07 - (24/5/2018)
 
 [Arquivo base da Aula](./Aula_07/AULA_07_base.gh)
 
@@ -321,7 +321,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 08 - (20/11)
+#### Alua 08 - (7/6/2018)
 
 [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
 
@@ -348,7 +348,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 09 - (27/11)
+#### Alua 09 - (14/6/2018)
 
 1. Malha de pontos irregular
    * recebendo listas
@@ -363,7 +363,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 10 - (04/12)
+#### Alua 10 - (21/6/2018)
 
 [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_base.gh)
 
@@ -379,7 +379,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 11 - (11/12)
+#### Alua 11 - (28/6/2018)
 
 1. trabalhando com Planos Parte I
 
@@ -390,7 +390,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 12 - (18/01)
+#### Alua 12 - (5/7/2018)
 
 1. trabalhando com Planos Parte II
 
@@ -402,7 +402,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 13 - (08/01)
+#### Alua 13 - (12/7/2018)
 
 1. trabalhando com Planos Parte III
 
@@ -412,7 +412,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 14 - (15/01)
+#### Alua 14 - (19/7/2018)
 
 1. Fractais
 
@@ -423,19 +423,19 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 15 - (22/01)
+#### Alua 15 - (26/7/2018)
 
 1. Orientação de trabalhos
 
 <hr>
 
-#### Alua 16 - (05/02)
+#### Alua 16 - (???)
 
 1. Orientação de trabalhos
 
 <hr>
 
-#### Alua 17 - (19/02)
+#### Alua 17 - (2/8/2018)
 
 1. Encerramento do Curso
 
