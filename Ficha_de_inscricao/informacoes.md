@@ -9,6 +9,10 @@
 ![cartaz](Cartaz_LPACAF_2018-1.jpg)
 
 
+**Plano de Curso**
+
+[Plano de Curso](https://255ribeiro.github.io/LPACAF/)
+
 
 **Objetivo:**
 
