@@ -87,7 +87,7 @@ Forum de comunicação do curso:
 <hr>
 
 #### Aula 02 - (19/4/2018)
-./Aula_02/LPACAF-Aula_02.ipynb
+
 [notas de aula](./Aula_02/LPACAF-Aula_02.ipynb)
 
 
