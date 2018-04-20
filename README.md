@@ -88,7 +88,7 @@ Forum de comunicação do curso:
 
 #### Aula 02 - (19/4/2018)
 
-[notas de aula](./Aula_02/LPACAF-Aula_02.ipynb)
+[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02.ipynb)
 
 
 1. Variáveis
@@ -134,7 +134,7 @@ Cursos de Python:
 
 #### Aula 03 - (26/4/2018)
 
-[notas de aula](./Aula_03/LPACAF-Aula_03.ipynb)
+[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_03/LPACAF-Aula_03.ipynb)
 
 1. Palavras reservadas
 
