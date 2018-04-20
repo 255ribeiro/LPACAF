@@ -25,7 +25,7 @@ Forum de comunicação do curso:
 #### Aula 01 - (12/4/2018)
 
 
-[SLIDES](Aula%2001%20-%20introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20.pdf)
+[SLIDES](./Aula_01/Aula_01-introducao_a_programacao.pdf)
 
 1. Apresentação do curso
 
@@ -87,8 +87,8 @@ Forum de comunicação do curso:
 <hr>
 
 #### Aula 02 - (19/4/2018)
-
-[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2002.ipynb)
+./Aula_02/LPACAF-Aula_02.ipynb
+[notas de aula](./Aula_02/LPACAF-Aula_02.ipynb)
 
 
 1. Variáveis
@@ -134,7 +134,7 @@ Cursos de Python:
 
 #### Aula 03 - (26/4/2018)
 
-[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/LPACAF%20-%20Aula%2003.ipynb)
+[notas de aula](./Aula_03/LPACAF-Aula_03.ipynb)
 
 1. Palavras reservadas
 
@@ -172,7 +172,7 @@ Cursos de Python:
    * parâmetros de entrada
    * retorno
 
-1. Exercício 03 - [Bhaskara](Bhaskara.pdf)
+1. Exercício 03 - [Bhaskara](./Aula_03/Bhaskara.pdf)
 
 1. Referências e *links* ùteis
 
