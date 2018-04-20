@@ -117,7 +117,14 @@ Forum de comunicação do curso:
    * else
    * elif
 
-1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div       
+
+
+1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div
+
+
+1. Arquivos dos Exemplos da Aula
+
+[Calcúlo do número de espelhos de uma escada](./Aula_02/escada_aula_02.py)
 
 1. Referências e *links* ùteis
 
