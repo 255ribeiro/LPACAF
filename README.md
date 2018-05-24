@@ -187,7 +187,7 @@ Cursos de Python:
 
    * Distribuição [Anaconda](https://www.anaconda.com/download/)
 
-   * O software [Processing](https://processing.org/download/) possui um modo de programação em Pytnon
+   * O software [Processing](https://processing.org/download/) possui um modo de programação em Python
 
 <hr>
 
