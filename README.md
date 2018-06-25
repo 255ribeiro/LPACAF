@@ -251,12 +251,12 @@ Cursos de Python:
         * Loft
 
     * Sólidos
-        - Cap
-        - Box
-        - Sphere
-        - BooleanUnion
-        - BooleanDifference
-        - BooleanIntersection
+        * Cap
+        * Box
+        * Sphere
+        * BooleanUnion
+        * BooleanDifference
+        * BooleanIntersection
 
 1. Editor de Python do Rhinoceros
 
@@ -320,7 +320,6 @@ Cursos de Python:
 
 1. Treliças
 
-
 1. Arquivos dos Exemplos da Aula
     * [Treliças](./Aula_07/AULA_07_final.gh)
 
@@ -329,30 +328,28 @@ Cursos de Python:
 
 <hr>
 
+
 ### Alua 08 - (7/6/2018)
 
 [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
 
-. Malha de pontos regular
+1. Malha de pontos regular
    * Duplo for
 
 1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
-[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
-
+    [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
 
 1. Malha de pontos irregular
    * recebendo listas
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
+    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
 
-[Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
+    [Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
-
-
 
 <hr>
 
@@ -361,9 +358,9 @@ Cursos de Python:
 1. Malha de pontos irregular
    * recebendo listas
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_base.gh)
+    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_base.gh)
 
-[Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_final.gh)
+    [Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_final.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
@@ -384,7 +381,6 @@ Cursos de Python:
 
 [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_final.gh)
 
-
 <hr>
 
 ### Alua 11 - (28/6/2018)
@@ -394,7 +390,6 @@ Cursos de Python:
 1. Exercício 12 - ????
 
 1. Referências e *links* ùteis
-
 
 <hr>
 
@@ -424,7 +419,8 @@ Cursos de Python:
 
 1. Fractais
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_14/Sierpinski3Dbase.gh)
+    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_14/Sierpinski3Dbase.gh)
+
 1. Exercício 14 - ????
 
 1. Referências e *links* ùteis
