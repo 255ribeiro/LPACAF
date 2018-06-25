@@ -16,14 +16,14 @@ Forum de comunicação do curso:
 
 <hr>
 
-### [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
+## [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
 
 ## Plano de Curso
 
 <hr>
 <hr>
 
-#### Aula 01 - (12/4/2018)
+### Aula 01 - (12/4/2018)
 
 
 [SLIDES](./Aula_01/Aula_01-introducao_a_programacao.pdf)
@@ -87,7 +87,7 @@ Forum de comunicação do curso:
 
 <hr>
 
-#### Aula 02 - (19/4/2018)
+### Aula 02 - (19/4/2018)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02.ipynb)
 
@@ -140,7 +140,7 @@ Cursos de Python:
 
 <hr>
 
-#### Aula 03 - (26/4/2018)
+### Aula 03 - (26/4/2018)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_03/LPACAF-Aula_03.ipynb)
 
@@ -192,7 +192,7 @@ Cursos de Python:
 
 <hr>
 
-#### Aula 04 - (3/5/2018)
+### Aula 04 - (3/5/2018)
 
 [Arquivo da Aula](./Aula_04/AULA_04.gh) <br /> Clique com o botão direito para baixar
 
@@ -230,7 +230,7 @@ Cursos de Python:
 
 <hr>
 
-#### Aula 05 - (10/5/2018)
+### Aula 05 - (10/5/2018)
 
 1. Alguns comandos do Rhinoceros
 
@@ -285,7 +285,7 @@ Cursos de Python:
 
 <hr>
 
-#### Aula 06 - (17/5/2018)
+### Aula 06 - (17/5/2018)
 
 1. Instalação do Grasshopper
 1. Instalação do Grasshopper Python Component
@@ -314,7 +314,7 @@ Cursos de Python:
 
 <hr>
 
-#### Aula 07 - (24/5/2018)
+### Aula 07 - (24/5/2018)
 
 [Arquivo base da Aula](./Aula_07/AULA_07_base.gh)
 
@@ -329,7 +329,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 08 - (7/6/2018)
+### Alua 08 - (7/6/2018)
 
 [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
 
@@ -356,7 +356,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 09 - (14/6/2018)
+### Alua 09 - (14/6/2018)
 
 1. Malha de pontos irregular
    * recebendo listas
@@ -371,7 +371,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 10 - (21/6/2018)
+### Alua 10 - (21/6/2018)
 
 [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_base.gh)
 
@@ -387,7 +387,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 11 - (28/6/2018)
+### Alua 11 - (28/6/2018)
 
 1. trabalhando com Planos Parte I
 
@@ -398,7 +398,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 12 - (5/7/2018)
+### Alua 12 - (5/7/2018)
 
 1. trabalhando com Planos Parte II
 
@@ -410,7 +410,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 13 - (12/7/2018)
+### Alua 13 - (12/7/2018)
 
 1. trabalhando com Planos Parte III
 
@@ -420,7 +420,7 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 14 - (19/7/2018)
+### Alua 14 - (19/7/2018)
 
 1. Fractais
 
@@ -431,19 +431,19 @@ Cursos de Python:
 
 <hr>
 
-#### Alua 15 - (26/7/2018)
+### Alua 15 - (26/7/2018)
 
 1. Orientação de trabalhos
 
 <hr>
 
-#### Alua 16 - (???)
+### Alua 16 - (???)
 
 1. Orientação de trabalhos
 
 <hr>
 
-#### Alua 17 - (2/8/2018)
+### Alua 17 - (2/8/2018)
 
 1. Encerramento do Curso
 
