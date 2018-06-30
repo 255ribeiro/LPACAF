@@ -18,7 +18,7 @@ for i in range(len(lista1)): # prineiro for
     listaAux = [] # iniciando lista auxiliar
     print 'loop ', i , ' do primeiro for /n'
     for j in range(len(lista2)):
-        pTemp = 'P(' + str(lista1[i])+ ',' + lista2[j] + ')' #criando ponto
+        pTemp = 'P(' + str(lista1[i]) + ',' + lista2[j] + ')' #criando ponto
         listaAux.append(pTemp) #Adicionando ponto na lista auxiliar
-    listaXY.append(listaAux) Adicionando 
+        listaXY.append(listaAux) #Adicionando lista auxiliar na listaXY
     print listaXY # mostrando listaXY
