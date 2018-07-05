@@ -1,30 +1,29 @@
 # Lógica de Programação Apliaca à Criação e Análise da Forma
 
-<hr>
+___
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-<hr>
+___
 
 [Informações](./Ficha_de_inscricao/informacoes.md)
 
-<hr>
+___
 
 Forum de comunicação do curso:
 
 [https://groups.google.com/forum/#!forum/20181lpacaf](https://groups.google.com/forum/#!forum/20181lpacaf)
 
-<hr>
+___
 
 ## [Guia de instalação do ambiente de  Trabalho](./guia_install/readme.md)
 
 ## Plano de Curso
 
-<hr>
-<hr>
+___
+___
 
 ### Aula 01 - (12/4/2018)
-
 
 [SLIDES](./Aula_01/Aula_01-introducao_a_programacao.pdf)
 
@@ -34,7 +33,6 @@ Forum de comunicação do curso:
     * Avaliações
 
 1. Funcionamento do Laboratório
-
 
 1. Introdução
 
@@ -47,7 +45,6 @@ Forum de comunicação do curso:
 
     * CPython 2.7x IDLE
 
-
 1. Operações matemáticas no Python Shell
 
    * Operadores matemáticos
@@ -58,9 +55,7 @@ Forum de comunicação do curso:
 
    * Níveis de Parênteses
 
-
 1. Exercício sugerido 01 - Use o Python Shell como uma calculadora
-
 
 1. Referências e *links* ùteis
 
@@ -83,14 +78,11 @@ Forum de comunicação do curso:
 
       [Between the Folds](https://www.betweenthefolds.com/)
 
-
-
-<hr>
+___
 
 ### Aula 02 - (19/4/2018)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02.ipynb)
-
 
 1. Variáveis
     * Tipos de variáveis
@@ -106,7 +98,6 @@ Forum de comunicação do curso:
    * editar
    * executar
 
-
 1. Entradas e saídas
     * input()
     * raw_input()
@@ -118,27 +109,23 @@ Forum de comunicação do curso:
    * else
    * elif
 
-
-
 1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div
-
 
 1. Arquivos dos Exemplos da Aula
 
-[Calcúlo do número de espelhos de uma escada](./Aula_02/escada_aula_02.py)
+    [Calcúlo do número de espelhos de uma escada](./Aula_02/escada_aula_02.py)
 
 1. Referências e *links* ùteis
 
 Cursos de Python:
 
-   * Em portugues:
+* Em portugues:
 
-      [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
+    [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
 
-      [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
+    [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
 
-
-<hr>
+___
 
 ### Aula 03 - (26/4/2018)
 
@@ -151,7 +138,6 @@ Cursos de Python:
 1. Funções e Métodos
 
    * [Funções *Built-in*](https://docs.python.org/2/library/functions.html#)
-
 
 1. Bibliotecas
 
@@ -190,11 +176,11 @@ Cursos de Python:
 
    * O software [Processing](https://processing.org/download/) possui um modo de programação em Python
 
-<hr>
+___
 
 ### Aula 04 - (3/5/2018)
 
-[Arquivo da Aula](./Aula_04/AULA_04.gh) <br /> Clique com o botão direito para baixar
+[Arquivo da Aula](./Aula_04/AULA_04.gh)  Clique com o botão direito para baixar
 
 1. iteráveis
 
@@ -221,27 +207,26 @@ Cursos de Python:
 
 1. Arquivos dos Exemplos da Aula
 
-    [Arquivo .gh da Aula - Final](./Aula_04/AULA_04_FINAL.gh) <br />
-    [Exemplos Loops While e For](./Aula_04/exemplos_for_e_while.py) <br />
+    [Arquivo .gh da Aula - Final](./Aula_04/AULA_04_FINAL.gh)
+    [Exemplos Loops While e For](./Aula_04/exemplos_for_e_while.py)
     [Exemplo Loop For](./Aula_04/exemploFor.py)
-
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Aula 05 - (10/5/2018)
 
 1. Alguns comandos do Rhinoceros
 
     * Curvas
-        - Point
-        - Line
-        - Circle
-        - Arc
-        - Polyline
-        - Curve
-        - InterpCrv
+        * Point
+        * Line
+        * Circle
+        * Arc
+        * Polyline
+        * Curve
+        * InterpCrv
 
     * Superfícies
         * PlanarSrf
@@ -268,7 +253,6 @@ Cursos de Python:
     * Loops
     * Armazenando Geometria em listas.
 
-
 1. Exercício 05 - Inverter os algarismos de um número inteiro de qualquer tamanho usando listas.
 
 1. Arquivos dos Exemplos da Aula
@@ -283,7 +267,7 @@ Cursos de Python:
 
     * [Tutorial Rhino Python em vídeo (eng)](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
 
-<hr>
+___
 
 ### Aula 06 - (17/5/2018)
 
@@ -312,7 +296,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Aula 07 - (24/5/2018)
 
@@ -323,11 +307,9 @@ Cursos de Python:
 1. Arquivos dos Exemplos da Aula
     * [Treliças](./Aula_07/AULA_07_final.gh)
 
-
 1. Referências e *links* ùteis
 
-<hr>
-
+___
 
 ### Alua 08 - (7/6/2018)
 
@@ -351,7 +333,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Alua 09 - (14/6/2018)
 
@@ -366,12 +348,11 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Alua 10 - (21/6/2018)
 
 [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_base.gh)
-
 
 1. Edfício de Multiplos pavimentos
 
@@ -381,7 +362,7 @@ Cursos de Python:
 
 [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_final.gh)
 
-<hr>
+___
 
 ### Alua 11 - (28/6/2018)
 
@@ -391,19 +372,19 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Alua 12 - (5/7/2018)
 
 1. trabalhando com Planos Parte II
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_base.gh)
+    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_base.gh)
 
-[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_final.gh)
+    [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_final.gh)
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Alua 13 - (12/7/2018)
 
@@ -413,7 +394,7 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Alua 14 - (19/7/2018)
 
@@ -425,24 +406,23 @@ Cursos de Python:
 
 1. Referências e *links* ùteis
 
-<hr>
+___
 
 ### Alua 15 - (26/7/2018)
 
 1. Orientação de trabalhos
 
-<hr>
+___
 
 ### Alua 16 - (???)
 
 1. Orientação de trabalhos
 
-<hr>
+___
 
 ### Alua 17 - (2/8/2018)
 
 1. Encerramento do Curso
-
 
 2. Referências e *links* ùteis
 
@@ -450,5 +430,5 @@ Cursos de Python:
 
 [Compilando um componente Python no Rhino 6](https://discourse.mcneel.com/t/tutorial-creating-a-grasshopper-component-with-the-python-ghpy-compiler/38552)
 
-<hr>
-<hr>
+___
+___
