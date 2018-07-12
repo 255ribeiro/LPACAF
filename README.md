@@ -322,13 +322,6 @@ ___
 
     [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
 
-1. Malha de pontos irregular
-   * recebendo listas
-
-    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
-
-    [Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
-
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
@@ -340,9 +333,9 @@ ___
 1. Malha de pontos irregular
    * recebendo listas
 
-    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_base.gh)
+    [Arquivo base da Aula](./Aula_09/Aula_09_base.gh)
 
-    [Arquivo Final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_09_final.gh)
+    [Arquivo Final da Aula](./Aula_09/Aula_09_final.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
