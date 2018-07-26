@@ -129,7 +129,7 @@ ___
 
 ### Aula 03 - (26/4/2018)
 
-[notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_03/LPACAF-Aula_03.ipynb)
+[notas de aula](./Aula_03/LPACAF-Aula_03.ipynb)
 
 1. Palavras reservadas
 
@@ -313,14 +313,14 @@ ___
 
 ### Alua 08 - (7/6/2018)
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_base.gh)
+[Arquivo base da Aula](./Aula_08/Aula_08_base.gh)
 
 1. Malha de pontos regular
    * Duplo for
 
 1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
-    [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_08/Aula_08_final.gh)
+    [Arquivo final da Aula](./Aula_08/Aula_08_final.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
@@ -345,7 +345,7 @@ ___
 
 ### Alua 10 - (21/6/2018)
 
-[Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_base.gh)
+[Arquivo base da Aula](./Aula_10/Aula_10_base.gh)
 
 1. Edfício de Multiplos pavimentos
 
@@ -353,13 +353,15 @@ ___
 
 1. Referências e *links* ùteis
 
-[Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_10/Aula_10_final.gh)
+[Arquivo final da Aula](./Aula_10/Aula_10_final.gh)
 
 ___
 
 ### Alua 11 - (28/6/2018)
 
 1. trabalhando com Planos Parte I
+
+[Comando Orient3p](./Aula_12/planos_teste.3dm)
 
 1. Exercício 12 - ????
 
@@ -371,9 +373,9 @@ ___
 
 1. trabalhando com Planos Parte II
 
-    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_base.gh)
+    [Arquivo base da Aula](.Aula_12/Aula_12_base.gh)
 
-    [Arquivo final da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_12/Aula_12_final.gh)
+    [Arquivo final da Aula](./Aula_12/Aula_12_final.gh)
 
 1. Referências e *links* ùteis
 
@@ -393,7 +395,7 @@ ___
 
 1. Fractais
 
-    [Arquivo base da Aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_14/Sierpinski3Dbase.gh)
+    [Arquivo base da Aula](./Aula_14/Sierpinski3Dbase.gh)
 
 1. Exercício 14 - ????
 
