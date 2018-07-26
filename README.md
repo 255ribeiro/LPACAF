@@ -361,7 +361,7 @@ ___
 
 1. trabalhando com Planos Parte I
 
-[Comando Orient3p](./Aula_12/planos_teste.3dm)
+     [Comando Orient3p](./Aula_12/planos_teste.3dm)
 
 1. Exercício 12 - ????
 
@@ -373,9 +373,9 @@ ___
 
 1. trabalhando com Planos Parte II
 
-    [Arquivo base da Aula](.Aula_12/Aula_12_base.gh)
+    [Arquivo base da Aula](.\Aula_12\Aula_12_base.gh)
 
-    [Arquivo final da Aula](./Aula_12/Aula_12_final.gh)
+    [Arquivo final da Aula](.\Aula_12\AULA_12_final.gh)
 
 1. Referências e *links* ùteis
 
