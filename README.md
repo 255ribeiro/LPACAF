@@ -23,7 +23,7 @@ ___
 ___
 ___
 
-### Aula 01 - (12/4/2018)
+### Aula 01 - (29/8/2018)
 
 [SLIDES](./Aula_01/Aula_01-introducao_a_programacao.pdf)
 
@@ -80,7 +80,7 @@ ___
 
 ___
 
-### Aula 02 - (19/4/2018)
+### Aula 02 - (5/9/2018)
 
 [notas de aula](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02.ipynb)
 
@@ -127,7 +127,7 @@ Cursos de Python:
 
 ___
 
-### Aula 03 - (26/4/2018)
+### Aula 03 - (12/9/2018)
 
 [notas de aula](./Aula_03/LPACAF-Aula_03.ipynb)
 
@@ -178,7 +178,7 @@ ___
 
 ___
 
-### Aula 04 - (3/5/2018)
+### Aula 04 - (19/9/2018)
 
 [Arquivo da Aula](./Aula_04/AULA_04.gh)  Clique com o botão direito para baixar
 
@@ -215,7 +215,7 @@ ___
 
 ___
 
-### Aula 05 - (10/5/2018)
+### Aula 05 - (26/9/2018)
 
 1. Alguns comandos do Rhinoceros
 
@@ -269,7 +269,7 @@ ___
 
 ___
 
-### Aula 06 - (17/5/2018)
+### Aula 06 - (3/10/2018)
 
 1. Instalação do Grasshopper
 1. Instalação do Grasshopper Python Component
@@ -298,7 +298,7 @@ ___
 
 ___
 
-### Aula 07 - (24/5/2018)
+### Aula 07 - (10/10/2018)
 
 [Arquivo base da Aula](./Aula_07/AULA_07_base.gh)
 
@@ -311,7 +311,7 @@ ___
 
 ___
 
-### Alua 08 - (7/6/2018)
+### Aula 08 - (17/10/2018)
 
 [Arquivo base da Aula](./Aula_08/Aula_08_base.gh)
 
@@ -328,7 +328,7 @@ ___
 
 ___
 
-### Alua 09 - (14/6/2018)
+### Aula 09 - (24/10/2018)
 
 1. Malha de pontos irregular
    * recebendo listas
@@ -343,7 +343,7 @@ ___
 
 ___
 
-### Alua 10 - (21/6/2018)
+### Aula 10 - (31/10/2018)
 
 [Arquivo base da Aula](./Aula_10/Aula_10_base.gh)
 
@@ -357,7 +357,7 @@ ___
 
 ___
 
-### Alua 11 - (28/6/2018)
+### Aula 11 - (7/11/2018)
 
 1. trabalhando com Planos Parte I
 
@@ -369,7 +369,7 @@ ___
 
 ___
 
-### Alua 12 - (5/7/2018)
+### Aula 12 - (14/11/2018)
 
 1. trabalhando com Planos Parte II
 
@@ -381,7 +381,7 @@ ___
 
 ___
 
-### Alua 13 - (12/7/2018)
+### Aula 13 - (21/11/2018)
 
 1. trabalhando com Planos Parte III
 
@@ -391,7 +391,7 @@ ___
 
 ___
 
-### Alua 14 - (19/7/2018)
+### Aula 14 - (28/11/2018)
 
 1. Fractais
 
@@ -403,19 +403,19 @@ ___
 
 ___
 
-### Alua 15 - (26/7/2018)
+### Aula 15 - (5/12/2018)
 
 1. Orientação de trabalhos
 
 ___
 
-### Alua 16 - (???)
+###Aula 16 - (12/12/2018)
 
 1. Orientação de trabalhos
 
 ___
 
-### Alua 17 - (2/8/2018)
+### Aula 17 - (19/12/2018)
 
 1. Encerramento do Curso
 

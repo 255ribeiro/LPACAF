@@ -2,17 +2,15 @@
 
 **Curso de extensão:**
 
-**Lógica de programação aplicada à criação e análise da forma - Terceira edição 2018.1**
+**Lógica de programação aplicada à criação e análise da forma - Quarta edição 2018.1**
 ============================================================================================
 **Cartaz Divulgação:**
 
-![cartaz](Cartaz_LPACAF_2018-1.jpg)
-
+![cartaz](Cartaz_LPACAF_2018-2a.jpg)
 
 **Plano de Curso**
 
 [Plano de Curso](https://255ribeiro.github.io/LPACAF/)
-
 
 **Objetivo:**
 
@@ -28,31 +26,29 @@ Ter conhecimento de uma ferramenta CAD 3D.
 
 **Principais ferramentas:**
 
-Python (CPython 2.7 idle), Rhinoceros 5, Grasshopper, Grasshopper Python Component.
+Python (CPython 3.6 idle), Anaconda3, Rhinoceros 5, Grasshopper, Grasshopper Python Component.
 
 **Período:**
 
-12/04/2018 À 02/08/2018
+29/08/2018 À 19/12/2018
 
 **Horário:**
 
-quintas  – 10:40 ás 12:30 (34 horas total)
+quatras  – 18:30 ás 20:10 (34 horas total)
 
 **Inscrições:**
 
-Dias 09,10,11,12 de Abril* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
+Dias 22,23,24 de Agosto* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
 
 *ou até o preenchimento das vagas.
 
 **Vagas:**
 
-20
+16
 
 **Download da ficha de inscrição:**
 
-<a href="LPACAF_inscricao_2018_1.doc" download> Ficha de inscrição - Download</a>
-
-
+<a href="LPACAF_inscricao_2018_2.doc" download> Ficha de inscrição - Download</a>
 
 **Professor:**
 Fernando Ferraz Ribeiro
