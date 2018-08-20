@@ -47,7 +47,7 @@ Dias 22 à 29 de Agosto* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
 
 ### **Download da ficha de inscrição:**
 
-<a href="LPACAF_inscricao_2018_2.doc" download> Ficha de inscrição - Download</a>
+[Ficha de inscrição](.\LPACAF_inscricao_2018_2.doc)
 
 ### **Professor:**
 
