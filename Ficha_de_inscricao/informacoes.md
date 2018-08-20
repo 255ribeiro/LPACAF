@@ -1,65 +1,66 @@
 
+# **Curso de extensão:**
 
-**Curso de extensão:**
+## **Lógica de programação aplicada à criação e análise da forma - Quarta edição 2018.1**
 
-**Lógica de programação aplicada à criação e análise da forma - Quarta edição 2018.1**
-============================================================================================
-**Cartaz Divulgação:**
+### **Cartaz Divulgação:**
 
 ![cartaz](Cartaz_LPACAF_2018-2a.jpg)
 
-**Plano de Curso**
+### **Plano de Curso**
 
 [Plano de Curso](https://255ribeiro.github.io/LPACAF/)
 
-**Objetivo:**
+### **Objetivo:**
 
 Introduzir os conceitos básicos de lógica de programação e sua aplicação na criação e análise de formas.
 
-**Publico alvo:**
+### **Publico alvo:**
 
 Profissionais e estudantes nas área de Arquitetura, Engenharia, Design de produtos, Computação, dentre outros.
 
-**Pré-requisitos:**
+### **Pré-requisitos:**
 
 Ter conhecimento de uma ferramenta CAD 3D.
 
-**Principais ferramentas:**
+### **Principais ferramentas:**
 
 Python (CPython 3.6 idle), Anaconda3, Rhinoceros 5, Grasshopper, Grasshopper Python Component.
 
-**Período:**
+### **Período:**
 
 29/08/2018 À 19/12/2018
 
-**Horário:**
+### **Horário:**
 
 quatras  – 18:30 ás 20:10 (34 horas total)
 
-**Inscrições:**
+### **Inscrições:**
 
-Dias 22,23,24 de Agosto* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
+Dias 22 à 29 de Agosto* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
 
 *ou até o preenchimento das vagas.
 
-**Vagas:**
+### **Vagas:**
 
 16
 
-**Download da ficha de inscrição:**
+### **Download da ficha de inscrição:**
 
 <a href="LPACAF_inscricao_2018_2.doc" download> Ficha de inscrição - Download</a>
 
-**Professor:**
+### **Professor:**
+
 Fernando Ferraz Ribeiro
 
-**Informações:**
+### **Informações:**
+
 fernando.ribeiro@ufba.br
 
-**Resumo:**
+### **Resumo:**
 
 O desenvolvimento da Ciência da Computação, e a sua consequente aplicação em ambientes digitais de projeto, acarretaram em grandes mudanças na atuação de diversos profissionais que lidam com a criação de formas e objetos. As metodologias generativas, a concepção de formas complexas, a visualização de dados urbanísticos ou a manipulação avançada de informações construtivas de um modelo, por exemplo, exigem por vezes um domínio da lógica de programação que pode ser prescindido pelo usuário da interface básica.
 
 Este curso pretende introduzir a lógica de programação como uma estratégia para a resolução de certos tipos de problema. A conexão com a prática profissional será dada através da aplicação direta da lógica na manipulação de formas nas interfaces de programação dos aplicativos (API) de ferramentas CAD.
 
-**OBS: O curso é gratuito e aberto para o público interno e externo da UFBA**
+#### **OBS: O curso é gratuito e aberto para o público interno e externo da UFBA**
