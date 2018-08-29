@@ -1,4 +1,4 @@
-#! python2
+#! python
 from __future__ import division
 import math as m
 

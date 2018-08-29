@@ -12,7 +12,7 @@ ___
 
 Forum de comunicação do curso:
 
-[https://groups.google.com/forum/#!forum/20181lpacaf](https://groups.google.com/forum/#!forum/20181lpacaf)
+[https://groups.google.com/d/forum/20182lpacaf](https://groups.google.com/d/forum/20182lpacaf)
 
 ___
 
