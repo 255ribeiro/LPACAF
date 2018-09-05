@@ -86,7 +86,6 @@ ___
 
 [notas de aula - Python 3](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02_py3.ipynb)
 
-
 1. Variáveis
     * Tipos de variáveis
         * Lógicas
