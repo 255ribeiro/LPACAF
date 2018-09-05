@@ -125,6 +125,8 @@ Cursos de Python:
 
     [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
 
+    [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/curso-python-3/)
+
     [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
 
 ___
@@ -136,6 +138,10 @@ ___
 1. Palavras reservadas
 
    * [Lista de palavras reservadas do Python 2.7x](https://docs.python.org/2/reference/lexical_analysis.html#keywords)
+
+   * [Lista de palavras reservadas do Python 3.x](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
+
+
 
 1. Funções e Métodos
 
