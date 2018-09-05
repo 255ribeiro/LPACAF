@@ -101,9 +101,10 @@ ___
    * executar
 
 1. Entradas e saídas
-    * input()
-    * raw_input()
-    * print
+    * input() - Python 2 e 3
+    * raw_input() - Python 2
+    * print() - Python 3
+    * print - Python 2
 
 1. Condicionais lógicas
 
