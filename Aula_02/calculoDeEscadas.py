@@ -1,9 +1,9 @@
 import math
 
 # entra do desnivel da escada
-desnivel = float(input("entre com o desnível da escada"))
+desnivel = float(input("entre com o desnível da escada \n"))
 
-espMax = float(input("Digite o espelho máximo"))
+espMax = float(input("Digite o espelho máximo \n"))
 
 # número de espelhos
 esp = desnivel / espMax
