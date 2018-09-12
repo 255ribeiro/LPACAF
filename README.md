@@ -116,7 +116,7 @@ ___
 
 1. Arquivos dos Exemplos da Aula
 
-    [Calcúlo do número de espelhos de uma escada](./Aula_02/escada_aula_02.py)
+    [Calcúlo do número de espelhos de uma escada](./Aula_02/calculoDeEscadas.py.py)
 
 1. Referências e *links* ùteis
 
@@ -141,8 +141,6 @@ ___
    * [Lista de palavras reservadas do Python 2.7x](https://docs.python.org/2/reference/lexical_analysis.html#keywords)
 
    * [Lista de palavras reservadas do Python 3.x](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
-
-
 
 1. Funções e Métodos
 
