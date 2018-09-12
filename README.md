@@ -151,13 +151,17 @@ ___
 1. Bibliotecas
 
    * Importanto módulos
-       * [Biblioteca keyword](https://docs.python.org/2/library/keyword.html)
+       * [Biblioteca keyword Python 2](https://docs.python.org/2/library/keyword.html)
+       * [Biblioteca keyword Python 3](https://docs.python.org/3.7/library/keyword.html)
 
-       * [Biblioteca Math](https://docs.python.org/2/library/math.html)
+       * [Biblioteca Math Python 2](https://docs.python.org/2/library/math.html)
+       * [Biblioteca Math Python 3](https://docs.python.org/3.7/library/math.html)
             * math.sin()
             * math.sqrt()
 
-       * [Biblioteca datetime](https://docs.python.org/2/library/datetime.html)
+       * [Biblioteca datetime Python 2](https://docs.python.org/2/library/datetime.html)
+
+       * [Biblioteca datetime Python 3](https://docs.python.org/3.7/library/datetime.html)
             * datetime.date()
             * datetime.timedelta()
 
@@ -193,7 +197,8 @@ ___
 
 1. iteráveis
 
-   * [listas](https://docs.python.org/2/tutorial/datastructures.html#)
+    * [listas Python 2](https://docs.python.org/2/tutorial/datastructures.html#)
+    * [listas Python 3](https://docs.python.org/3.7/tutorial/datastructures.html#)
       * fila
       * pilha
       * lista
@@ -202,9 +207,9 @@ ___
          * função len()
          * função list()
 
-   * tuples
+    * tuples
 
-   * strings
+    * strings
 
 1. Repetições
 
