@@ -144,7 +144,9 @@ ___
 
 1. Funções e Métodos
 
-   * [Funções *Built-in*](https://docs.python.org/2/library/functions.html#)
+   * [Funções *Built-in* Python 2](https://docs.python.org/2/library/functions.html#)
+
+   * [Funções *Built-in* Python 3](https://docs.python.org/3.7/library/functions.html#built-in-functions)
 
 1. Bibliotecas
 
