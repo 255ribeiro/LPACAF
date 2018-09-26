@@ -222,7 +222,9 @@ ___
 1. Arquivos dos Exemplos da Aula
 
     [Arquivo .gh da Aula - Final](./Aula_04/AULA_04_FINAL.gh)
+
     [Exemplos Loops While e For](./Aula_04/exemplos_for_e_while.py)
+
     [Exemplo Loop For](./Aula_04/exemploFor.py)
 
 1. Referências e *links* ùteis
