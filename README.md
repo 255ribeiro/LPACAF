@@ -326,6 +326,7 @@ ___
 
 1. Referências e *links* ùteis
 
+    *[Dissertação - Sistema Generativo de Projeto Aplicado à ao Desenho e Otimização da Estrutura de um *Shed*](https://255ribeiro.github.io/Mestrado/)
 ___
 
 ### Aula 08 - (17/10/2018)
