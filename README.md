@@ -284,6 +284,7 @@ ___
     * [Tutorial Rhino Python em vídeo (eng)](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA)
 
     * [Rhino -material de aula](https://255ribeiro.github.io/CAD_intro/)
+
 ___
 
 ### Aula 06 - (3/10/2018)
