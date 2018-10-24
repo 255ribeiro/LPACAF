@@ -340,7 +340,9 @@ ___
 
 1. Exercício 07 - Transformar Malha de Pontos em Malha de Pilares com altura paramétrica
 
-    [Arquivo final da Aula](./Aula_08/Aula_08_final.gh)
+    [Arquivo final da Aula - sem Rhino.Geometry](./Aula_08/Aula_08_final.gh)
+
+    [Arquivo final da Aula - Com Rhino.Geometry](./Aula_08/Aula_08_final.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
