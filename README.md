@@ -344,7 +344,7 @@ ___
 
     [Arquivo final da Aula - Com Rhino.Geometry](./Aula_08/Aula_08_finalRG.gh)
 
-     [Arquivo final da Aula - Com Rhino.Geometry com planos](./Aula_08/Aula_08_finalRG_Plane.gh)
+     [Arquivo final da Aula - Com Rhino.Geometry e planos](./Aula_08/Aula_08_finalRG_Plane.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
@@ -361,6 +361,8 @@ ___
 
     [Arquivo Final da Aula](./Aula_09/Aula_09_final.gh)
 
+    [Arquivo Final da Aula - RHINO.GEOMETRY](./Aula_09/Aula_09_final_RG.gh)
+
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
 1. Referências e *links* ùteis
@@ -369,7 +371,7 @@ ___
 
 ### Aula 10 - (31/10/2018)
 
-[Arquivo base da Aula](./Aula_10/Aula_10_base.gh)
+[Arquivo base da Aula](./Aula_10/Aula_10_base_2018.gh)
 
 1. Edfício de Multiplos pavimentos
 
@@ -377,7 +379,7 @@ ___
 
 1. Referências e *links* ùteis
 
-[Arquivo final da Aula](./Aula_10/Aula_10_final.gh)
+[Arquivo final da Aula](./Aula_10/Aula_10_final_2018.gh)
 
 ___
 
