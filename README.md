@@ -342,7 +342,9 @@ ___
 
     [Arquivo final da Aula - sem Rhino.Geometry](./Aula_08/Aula_08_final.gh)
 
-    [Arquivo final da Aula - Com Rhino.Geometry](./Aula_08/Aula_08_final.gh)
+    [Arquivo final da Aula - Com Rhino.Geometry](./Aula_08/Aula_08_finalRG.gh)
+
+     [Arquivo final da Aula - Com Rhino.Geometry com planos](./Aula_08/Aula_08_finalRG_Plane.gh)
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
