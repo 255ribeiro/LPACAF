@@ -371,7 +371,7 @@ ___
 
 ### Aula 10 - (31/10/2018)
 
-[Arquivo base da Aula](./Aula_10/Aula_10_base_2018.gh)
+[Arquivo base da Aula](./Aula_10/AULA_10_base_2018.gh)
 
 1. Edfício de Multiplos pavimentos
 
