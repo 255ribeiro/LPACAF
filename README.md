@@ -375,11 +375,11 @@ ___
 
 1. Edfício de Multiplos pavimentos
 
+[Arquivo final da Aula](./Aula_10/Aula_10_final_2018.gh)
+
 1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
 1. Referências e *links* ùteis
-
-[Arquivo final da Aula](./Aula_10/Aula_10_final_2018.gh)
 
 ___
 
@@ -425,7 +425,7 @@ ___
 
     [Arquivo base da Aula](./Aula_14/Sierpinski3Dbase.gh)
 
-1. Exercício 14 - desenvolver um algoritmo que gere um outro fractal.
+1. Exercício 14 - Desenvolver um algoritmo que gere um outro fractal.
 
 1. Referências e *links* ùteis
 
