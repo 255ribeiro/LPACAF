@@ -375,7 +375,7 @@ ___
 
 1. Edfício de Multiplos pavimentos
 
-1. Exercício 9 - ????
+1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
 1. Referências e *links* ùteis
 
@@ -385,11 +385,11 @@ ___
 
 ### Aula 11 - (7/11/2018)
 
-1. trabalhando com Planos Parte I
+1. Funções
 
      [Comando Orient3p](./Aula_12/planos_teste.3dm)
 
-1. Exercício 12 - ????
+1. Exercício 12 - transformar um dos algoritmos desenvolvidos no curso em uma função
 
 1. Referências e *links* ùteis
 
@@ -397,7 +397,7 @@ ___
 
 ### Aula 12 - (14/11/2018)
 
-1. trabalhando com Planos Parte II
+1. Manipulação de listas e slicing
 
     [Arquivo base da Aula](.\Aula_12\Aula_12_base.gh)
 
@@ -409,11 +409,13 @@ ___
 
 ### Aula 13 - (21/11/2018)
 
-1. trabalhando com Planos Parte III
+1. Biblioteca ghpythonlib.components
 
 1. Exercício 13 - ????
 
 1. Referências e *links* ùteis
+
+[referência da biblioteca ghpythonlib](https://developer.rhino3d.com/guides/rhinopython/ghpython-component/)
 
 ___
 
@@ -423,10 +425,11 @@ ___
 
     [Arquivo base da Aula](./Aula_14/Sierpinski3Dbase.gh)
 
-1. Exercício 14 - ????
+1. Exercício 14 - desenvolver um algoritmo que gere um outro fractal.
 
 1. Referências e *links* ùteis
 
+[Plug-in FRACTALS](https://www.food4rhino.com/app/fractals)
 ___
 
 ### Aula 15 - (5/12/2018)
