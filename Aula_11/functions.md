@@ -4,7 +4,7 @@
 
 ### Algoritmo Original
 
-```Python
+```python
 import math
 
 # entra do desnivel da escada
@@ -43,7 +43,7 @@ print(" o piso tem ", piso, "m")
 
 ### Transformando em função
 
-```Python
+```python
 
 
 
