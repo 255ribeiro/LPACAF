@@ -116,7 +116,7 @@ ___
 
 1. Arquivos dos Exemplos da Aula
 
-    [Calcúlo do número de espelhos de uma escada](./Aula_02/calculoDeEscadas.py.py)
+    [Calcúlo do número de espelhos de uma escada](./Aula_02/calculoDeEscadas.py)
 
 1. Referências e *links* ùteis
 
