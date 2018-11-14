@@ -1,8 +1,8 @@
-# funções definidas pelo usuário
+# Funções Definidas Pelo Usuário
 
 ## Algoritmo do cálculo da escada
 
-### Algoritmo Original
+### Algoritmo Original - Escada
 
 ```python
 import math
@@ -41,7 +41,7 @@ print(" o piso tem ", piso, "m")
 
 ```
 
-### Transformando em função
+### Transformando em função - Escada
 
 ```python
 
@@ -50,4 +50,103 @@ print(" o piso tem ", piso, "m")
 
 ```
 
-##  
+## Pilares tubulares
+
+### Algoritmo Original - pilares tubulares
+
+```python
+
+
+
+
+```
+
+### Transformando em função - pilares tubulares
+
+```python
+
+
+
+
+```
+
+## Treliça
+
+### Algoritmo Original - treliça
+
+```python
+
+
+
+
+```
+
+### Transformando em função - treliça
+
+```python
+
+
+
+
+```
+
+## Malha Regular
+
+### Algoritmo Original - Malha Regular
+
+```python
+
+
+
+
+```
+
+### Transformando em função - Malha Regular
+
+```python
+
+
+
+
+```
+
+
+## Malha Irregular
+
+### Algoritmo Original - Malha Irregular
+
+```python
+
+
+
+
+```
+
+### Transformando em função - Malha Irregular
+
+```python
+
+
+
+
+```
+
+## Edfício de Multiplos pavimentos
+
+### Algoritmo Original - Edfício de Multiplos pavimentos
+
+```python
+
+
+
+
+```
+
+### Transformando em função - Edfício de Multiplos pavimentos
+
+```python
+
+
+
+
+```
