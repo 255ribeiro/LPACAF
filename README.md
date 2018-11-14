@@ -387,6 +387,8 @@ ___
 
 1. Funções
 
+[Notas de Aula](./Aula_11/functions.md)
+
      [Comando Orient3p](./Aula_12/planos_teste.3dm)
 
 1. Exercício 12 - transformar um dos algoritmos desenvolvidos no curso em uma função
@@ -416,6 +418,8 @@ ___
 1. Referências e *links* ùteis
 
 [referência da biblioteca ghpythonlib](https://developer.rhino3d.com/guides/rhinopython/ghpython-component/)
+
+[EliFront](https://www.food4rhino.com/app/elefront)
 
 ___
 
