@@ -7,19 +7,15 @@
 ```python
 import math
 
-# entra do desnivel da escada
+# entrada do desnivel da escada
 desnivel = float(input("entre com o desnível da escada \n"))
-
+# entrada do espelho máximo
 espMax = float(input("Digite o espelho máximo \n"))
 
 # número de espelhos
 esp = desnivel / espMax
-
 # numero de espelhos arredondado
 esp = math.ceil(esp)
-
-print(esp)
-
 # altura do espelho real
 h = desnivel / esp
 # altura do espelho com 3 casas decimais
@@ -44,6 +40,28 @@ print(" o piso tem ", piso, "m")
 ### Transformando em função - Escada
 
 ```python
+# dependencias
+from math import ceil
+
+# função
+def Blondel(desnivel, espMax):
+
+    # número de espelhos
+    esp = desnivel / espMax
+
+    # numero de espelhos arredondado
+    esp = ceil(esp)
+
+    # altura do espelho real
+    h = desnivel / esp
+    # altura do espelho com 3 casas decimais
+    h = round(h, 3)
+    # calculo do piso pela formula de Blodel
+    piso = .63 - (2*h)
+    # retorno da função
+    return esp, h, piso
+
+# chamada da função
 
 
 
