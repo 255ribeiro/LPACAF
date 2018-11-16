@@ -371,6 +371,8 @@ ___
 
 ### Aula 10 - (31/10/2018)
 
+[Comando Orient3p](./Aula_12/planos_teste.3dm)
+
 [Arquivo base da Aula](./Aula_10/AULA_10_base_2018.gh)
 
 1. Edfício de Multiplos pavimentos
@@ -385,11 +387,11 @@ ___
 
 ### Aula 11 - (7/11/2018)
 
-1. Funções
+1. Funções definidas pelo usuário
 
-[Notas de Aula](./Aula_11/functions.md)
+[Notas de Aula](./Aula_11/functionsPyton3.md)
 
-     [Comando Orient3p](./Aula_12/planos_teste.3dm)
+[Notas de Aula](./Aula_11/functionsRhinoGrass.md)
 
 1. Exercício 12 - transformar um dos algoritmos desenvolvidos no curso em uma função
 
