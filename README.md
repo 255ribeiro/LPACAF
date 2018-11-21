@@ -371,7 +371,7 @@ ___
 
 ### Aula 10 - (31/10/2018)
 
-[Comando Orient3p](./Aula_12/planos_teste.3dm)
+[Comando Orient3p](./Aula_10/planos_teste.3dm)
 
 [Arquivo base da Aula](./Aula_10/AULA_10_base_2018.gh)
 
@@ -457,6 +457,8 @@ ___
 2. Referências e *links* ùteis
 
 [Tutoriais de C# para Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper)
+
+[Tutoriais de C# para Grasshopper](https://www.youtube.com/watch?v=pFCrIzENDn8&list=PLapoQ_9M-ujfYGOsZProIXPGx-HRfjJ9C)
 
 [Compilando um componente Python no Rhino 6](https://discourse.mcneel.com/t/tutorial-creating-a-grasshopper-component-with-the-python-ghpy-compiler/38552)
 

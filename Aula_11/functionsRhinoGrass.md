@@ -1,37 +1,33 @@
 # Funções Definidas Pelo Usuário - Rhino/Grasshopper
 
-## Pilares tubulares
 
-### Algoritmo Original - pilares tubulares
+
+## Função pilares tubulares
 
 ```python
 
+# dependencias
+import rhinoscriptsyntax as rs
 
+# Função
+def PilaresTubulares(pointList1, pointList2, Raio, capTipo = 1):
+    eixos =[]
+    pilares = []
+    for i in range(len(pointList1)):
+        #criando linhas de eixos
+        linAux = rs.AddLine(pointList1[i],pointList2[i])
+        eixos.append(linAux)
+        # criando pilares
+        if Raio != 0:
+            tubo = rs.AddPipe(linAux, 0, Raio, cap = capTipo)
+            pilares.append(tubo)
+    #retorna eixos e pilares
+    return eixos, pilares
 
 
 ```
 
-### Transformando em função - pilares tubulares
-
-```python
-
-
-
-
-```
-
-## Treliça
-
-### Algoritmo Original - treliça
-
-```python
-
-
-
-
-```
-
-### Transformando em função - treliça
+## Função treliça
 
 ```python
 
@@ -42,17 +38,6 @@
 
 ## Malha Regular
 
-### Algoritmo Original - Malha Regular
-
-```python
-
-
-
-
-```
-
-### Transformando em função - Malha Regular
-
 ```python
 
 
@@ -61,8 +46,6 @@
 ```
 
 ## Malha Irregular
-
-### Algoritmo Original - Malha Irregular
 
 ```python
 
