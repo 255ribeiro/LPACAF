@@ -25,34 +25,20 @@ def PilaresTubulares(pointList1, pointList2, Raio, capTipo = 1):
 
 ```
 
-## Função treliça
+## Plano por superfície
 
 ```python
+#dependencias
+from Rhino.Geometry import Point3d, Vector3d, Plane, Surface
 
-
-
+# Função
+def planoSuperf(sur1):
+    auxPlane = Plane(sur1.PointAt(0,0), Vector3d(sur1.PointAt(1,0) - sur1.PointAt(0,0)) , Vector3d(sur1.PointAt(0,1) - sur1.PointAt(0,0) ) )
+    return auxPlane
 
 ```
 
-## Malha Regular
-
-```python
-
-
-
-
-```
-
-## Malha Irregular
-
-```python
-
-
-
-
-```
-
-## Mudança de planos
+## Mudança de planos -  único objeto
 
 ```python
 #dependencias
