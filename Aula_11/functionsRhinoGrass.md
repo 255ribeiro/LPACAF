@@ -85,10 +85,9 @@ def ManhaIrregular(PL, Lx, Ly, sX = 0.0, sY = 0.0):
     P =[]
 
 # - função principal
-
     Lx.insert(0, 0.0)
     Ly.insert(0, 0.0)
-
+# - mudando a origem x e y do plano
     PL.OriginX = PL.OriginX + sX
     PL.OriginX = PL.OriginX + sY
 
