@@ -389,9 +389,9 @@ ___
 
 1. Funções definidas pelo usuário
 
-[Notas de Aula](./Aula_11/functionsPyton3.md)
+[Funções definidas pelo usuário em Python 3](./Aula_11/functionsPyton3.md)
 
-[Notas de Aula](./Aula_11/functionsRhinoGrass.md)
+[Funções definidas pelo usuário Rhino/Grasshopper](./Aula_11/functionsRhinoGrass.md)
 
 1. Exercício 12 - transformar um dos algoritmos desenvolvidos no curso em uma função
 
