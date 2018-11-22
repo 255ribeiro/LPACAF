@@ -18,7 +18,7 @@ def PilaresTubulares(pointList1, pointList2, Raio, capTipo = 1):
         # criando pilares
         if Raio != 0:
             tubo = rs.AddPipe(linAux, 0, Raio, cap = capTipo)
-            pilares.append(tubo)
+            pilares = pilares + tubo
     #retorna eixos e pilares
     return eixos, pilares
 
