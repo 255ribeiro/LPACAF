@@ -37,17 +37,15 @@ quatras  – 18:30 ás 20:10 (34 horas total)
 
 ### **Inscrições:**
 
-Dias 22 à 29 de Agosto* no Lcad/Atelier D - Faculdade de Arquitetura - UFBA
+Dias 22  de Abril à 7 de Maio * no link abaixo:
+
+[Ficha de inscrição](https://docs.google.com/forms/d/e/1FAIpQLSfi9wZvTrU_4Xl16ljGlzZZY6KHW6eOFMEHDR1MdrdP-_g1Ew/viewform?usp=sf_link)
 
 *ou até o preenchimento das vagas.
 
 ### **Vagas:**
 
 16
-
-### **Download da ficha de inscrição:**
-
-[Ficha de inscrição](.\LPACAF_inscricao_2018_2.doc)
 
 ### **Professor:**
 

@@ -7,7 +7,6 @@ espMax = float(input("Digite o espelho máximo \n"))
 
 # número de espelhos
 esp = desnivel / espMax
-
 # numero de espelhos arredondado
 esp = math.ceil(esp)
 
