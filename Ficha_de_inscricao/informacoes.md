@@ -1,7 +1,7 @@
 
 # **Curso de extensão:**
 
-## **Lógica de programação aplicada à criação e análise da forma - Quarta edição 2018.1**
+## **Lógica de programação aplicada à criação e análise da forma - Quinta edição 2019.1**
 
 ### **Cartaz Divulgação:**
 
@@ -21,7 +21,7 @@ Profissionais e estudantes nas área de Arquitetura, Engenharia, Design de produ
 
 ### **Pré-requisitos:**
 
-Ter conhecimento de uma ferramenta CAD 3D.
+Recomenda-se ter conhecimento de uma ferramenta CAD 3D.
 
 ### **Principais ferramentas:**
 
@@ -29,11 +29,11 @@ Python (CPython 3.6 idle), Anaconda3, Rhinoceros 5, Grasshopper, Grasshopper Pyt
 
 ### **Período:**
 
-29/08/2018 À 19/12/2018
+07/05/2019 À 03/07/2019
 
 ### **Horário:**
 
-quatras  – 18:30 ás 20:10 (34 horas total)
+terças  – 14:50 ás 18:30 (34 horas total)
 
 ### **Inscrições:**
 
