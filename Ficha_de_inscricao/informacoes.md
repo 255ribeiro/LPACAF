@@ -25,7 +25,7 @@ Recomenda-se ter conhecimento de uma ferramenta CAD 3D.
 
 ### **Principais ferramentas:**
 
-Python (CPython 3.6 idle), Anaconda3, Rhinoceros 5, Grasshopper, Grasshopper Python Component.
+Python (CPython 3.7 idle), Anaconda3, Rhinoceros 5, Grasshopper, Grasshopper Python Component.
 
 ### **Período:**
 

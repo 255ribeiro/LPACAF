@@ -187,6 +187,10 @@ ___
 
    * Distribuição [Anaconda](https://www.anaconda.com/download/)
 
+   * Ambiente de desenvolvimento Python Online[IBM Developer Skills Network - Labs](https://labs.cognitiveclass.ai/)
+
+   * Ambiente de sesenvolvimento Python Online [Google colab](https://colab.research.google.com)
+
    * O software [Processing](https://processing.org/download/) possui um modo de programação em Python
 
 ___
