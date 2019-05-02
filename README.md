@@ -10,9 +10,9 @@ ___
 
 ___
 
-Forum de comunicação do curso:
+Forum de comunicação do curso (Moodle UFBA):
 
-[https://groups.google.com/d/forum/20182lpacaf](https://groups.google.com/d/forum/20182lpacaf)
+[https://www.moodle.ufba.br/course/view.php?id=6705](https://www.moodle.ufba.br/course/view.php?id=6705)
 
 ___
 
