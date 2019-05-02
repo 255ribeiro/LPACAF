@@ -23,7 +23,7 @@ ___
 ___
 ___
 
-### Aula 01 - (29/8/2018)
+### Aula 01 -
 
 [SLIDES](./Aula_01/Aula_01-introducao_a_programacao.pdf)
 
@@ -80,7 +80,7 @@ ___
 
 ___
 
-### Aula 02 - (5/9/2018)
+### Aula 02 -
 
 [notas de aula - Python 2](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02_py2.ipynb)
 
@@ -132,7 +132,7 @@ Cursos de Python:
 
 ___
 
-### Aula 03 - (12/9/2018)
+### Aula 03 -
 
 [notas de aula](./Aula_03/LPACAF-Aula_03.ipynb)
 
@@ -195,7 +195,7 @@ ___
 
 ___
 
-### Aula 04 - (19/9/2018)
+### Aula 04 -
 
 [Arquivo da Aula](./Aula_04/AULA_04.gh)  Clique com o botão direito para baixar
 
@@ -235,7 +235,7 @@ ___
 
 ___
 
-### Aula 05 - (26/9/2018)
+### Aula 05 -
 
 1. Alguns comandos do Rhinoceros
 
@@ -291,7 +291,7 @@ ___
 
 ___
 
-### Aula 06 - (3/10/2018)
+### Aula 06 -
 
 1. Instalação do Grasshopper
 1. Instalação do Grasshopper Python Component
@@ -320,7 +320,7 @@ ___
 
 ___
 
-### Aula 07 - (10/10/2018)
+### Aula 07 -
 
 [Arquivo base da Aula](./Aula_07/AULA_07_base.gh)
 
@@ -335,7 +335,7 @@ ___
 
 ___
 
-### Aula 08 - (17/10/2018)
+### Aula 08 -
 
 [Arquivo base da Aula](./Aula_08/Aula_08_base.gh)
 
@@ -356,7 +356,7 @@ ___
 
 ___
 
-### Aula 09 - (24/10/2018)
+### Aula 09 -
 
 1. Malha de pontos irregular
    * recebendo listas
@@ -373,7 +373,7 @@ ___
 
 ___
 
-### Aula 10 - (31/10/2018)
+### Aula 10 -
 
 [Comando Orient3p](./Aula_10/planos_teste.3dm)
 
@@ -389,7 +389,7 @@ ___
 
 ___
 
-### Aula 11 - (7/11/2018)
+### Aula 11 -
 
 1. Funções definidas pelo usuário
 
@@ -403,7 +403,7 @@ ___
 
 ___
 
-### Aula 12 - (14/11/2018)
+### Aula 12 -
 
 1. Manipulação de listas e slicing
 
@@ -415,7 +415,7 @@ ___
 
 ___
 
-### Aula 13 - (21/11/2018)
+### Aula 13 -
 
 1. Biblioteca ghpythonlib.components
 
@@ -429,7 +429,7 @@ ___
 
 ___
 
-### Aula 14 - (28/11/2018)
+### Aula 14 -
 
 1. Fractais
 
@@ -439,22 +439,22 @@ ___
 
 1. Referências e *links* ùteis
 
-[Plug-in FRACTALS](https://www.food4rhino.com/app/fractals)
+    [Plug-in FRACTALS](https://www.food4rhino.com/app/fractals)
 ___
 
-### Aula 15 - (5/12/2018)
+### Aula 15 -
 
 1. Orientação de trabalhos
 
 ___
 
-### Aula 16 - (12/12/2018)
+### Aula 16 -
 
 1. Orientação de trabalhos
 
 ___
 
-### Aula 17 - (19/12/2018)
+### Aula 17 -
 
 1. Encerramento do Curso
 

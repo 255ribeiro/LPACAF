@@ -37,7 +37,7 @@ terças  – 14:50 ás 18:30 (34 horas total)
 
 ### **Inscrições:**
 
-Dias 22  de Abril à 7 de Maio * no link abaixo:
+Dias 2 à 7 de Maio * no link abaixo:
 
 [Ficha de inscrição](https://docs.google.com/forms/d/e/1FAIpQLSfi9wZvTrU_4Xl16ljGlzZZY6KHW6eOFMEHDR1MdrdP-_g1Ew/viewform?usp=sf_link)
 
