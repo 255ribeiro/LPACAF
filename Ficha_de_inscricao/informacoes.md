@@ -5,7 +5,7 @@
 
 ### **Cartaz Divulgação:**
 
-![cartaz](Cartaz_LPACAF_2018-2.jpg)
+![cartaz](Cartaz_LPACAF_2019.1.jpg)
 
 ### **Plano de Curso**
 
