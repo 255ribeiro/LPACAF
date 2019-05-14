@@ -120,6 +120,10 @@ ___
 
 1. Referências e *links* ùteis
 
+    *[Tweet sobre Python The Economist](https://twitter.com/theeconomist/status/1020001623236665346?lang=pt)
+
+    *[materia sobre Python The Economist](https://www.economist.com/science-and-technology/2018/07/19/python-has-brought-computer-programming-to-a-vast-new-audience?fsrc=scn/tw/te/bl/ed/pythonhasbroughtcomputerprogrammingtoavastnewaudienceprogramminglanguages)
+
 Cursos de Python:
 
 * Em portugues:
