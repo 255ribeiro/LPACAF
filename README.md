@@ -341,6 +341,8 @@ ___
 
 ### Aula 08 -
 
+[Malhas de Pilares no grasshopper](Aula_08\malhas_de_pilares_grasshopper.gh)
+
 [Arquivo base da Aula](./Aula_08/Aula_08_base.gh)
 
 1. Malha de pontos regular
