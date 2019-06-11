@@ -341,7 +341,7 @@ ___
 
 ### Aula 08 -
 
-[Malhas de Pilares no Grasshopper](Aula_08\malhas_de_pilares_Grasshopper.gh)
+[Malhas de Pilares no Grasshopper](./Aula_08/malhas_de_pilares_Grasshopper.gh)
 
 [Arquivo base da Aula](./Aula_08/Aula_08_base.gh)
 
