@@ -29,7 +29,7 @@ ___
 
 1. Apresentação do curso
 
-    * Metodoloagia
+    * Metodologia
     * Avaliações
 
 1. Funcionamento do Laboratório
@@ -37,8 +37,8 @@ ___
 1. Introdução
 
    * Conceito de algoritmo
-   * História da programação
-   * Programação Aplicada à arquitetura e urbanismo
+   * História da Programação
+   * Programação Aplicada à Arquitetura e Urbanismo
    * A linguagem Python
 
 1. Instalação
@@ -57,7 +57,7 @@ ___
 
 1. Exercício sugerido 01 - Use o Python Shell como uma calculadora
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
    * Python
 
@@ -70,6 +70,7 @@ ___
       [Rhino3D.com](http://www.rhino3d.com/)
 
       [food 4 Rhino](http://www.food4rhino.com/)
+      
    * Grasshopper
 
       [Grasshopper 3d](http://www.grasshopper3d.com/)
@@ -112,13 +113,13 @@ ___
    * else
    * elif
 
-1. Exercício 02 - inverter os algarismos de um número inteiro de 3 digitos usando Mod e/ou Div
+1. Exercício 02 - inverter os algarismos de um número inteiro de 3 dígitos usando Mod e/ou Div
 
 1. Arquivos dos Exemplos da Aula
 
     [Calcúlo do número de espelhos de uma escada](./Aula_02/calculoDeEscadas.py)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
     *[Tweet sobre Python The Economist](https://twitter.com/theeconomist/status/1020001623236665346?lang=pt)
 
@@ -126,7 +127,7 @@ ___
 
 Cursos de Python:
 
-* Em portugues:
+* Em português:
 
     [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
 
@@ -154,7 +155,7 @@ ___
 
 1. Bibliotecas
 
-   * Importanto módulos
+   * Importando módulos
        * [Biblioteca keyword Python 2](https://docs.python.org/2/library/keyword.html)
        * [Biblioteca keyword Python 3](https://docs.python.org/3.7/library/keyword.html)
 
@@ -185,7 +186,7 @@ ___
 
 1. Exercício 03 - [Bhaskara](./Aula_03/Bhaskara.pdf)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
    * IDE [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
@@ -193,7 +194,7 @@ ___
 
    * Ambiente de desenvolvimento Python Online [IBM Developer Skills Network - Labs](https://labs.cognitiveclass.ai/)
 
-   * Ambiente de sesenvolvimento Python Online [Google colab](https://colab.research.google.com)
+   * Ambiente de desenvolvimento Python Online [Google colab](https://colab.research.google.com)
 
    * O software [Processing](https://processing.org/download/) possui um modo de programação em Python
 
@@ -235,7 +236,7 @@ ___
 
     [Exemplo Loop For](./Aula_04/exemploFor.py)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -270,7 +271,7 @@ ___
 1. Editor de Python do Rhinoceros
 
     * Abrindo o Editor
-    * imptando Bibliotecas
+    * importando Bibliotecas
     * Criando geometria (rs.Add...)
     * Utilizando variáveis
     * Entrada de dados (rs.Get...)
@@ -283,7 +284,7 @@ ___
     * [Pilar Tubular - Extrude](./Aula_05/exemplo_rhino_pilar_tubular_extrude.py)
     * [Pilar Tubular - Pipe](./Aula_05/exemplo_rhino_pilar_tubular_pipe.py)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
     * [Tutorial Rhino Modelagem 3D](https://www.youtube.com/watch?v=NKkXMKKA_Cs&list=PL68tctImfhCR2zFIxzEs95v5ETSXe9r14)
 
@@ -320,7 +321,7 @@ ___
     * [Exemplo Didático - Revisão do Loop for](./Aula_06/exemplo_didatico_revisao_do_loop_for.py)
     * [Seqência de Pilares - Grasshopper](./Aula_06/Aula_06_sequencia_de_pilares.gh)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -333,7 +334,7 @@ ___
 1. Arquivos dos Exemplos da Aula
     * [Treliças](./Aula_07/AULA_07_final.gh)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
     *[Dissertação - Sistema Generativo de Projeto Aplicado à ao Desenho e Otimização da Estrutura de um *Shed*](https://255ribeiro.github.io/Mestrado/)
 
@@ -358,7 +359,7 @@ ___
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -375,7 +376,7 @@ ___
 
 1. Exercício 08 - Adicionar linhas de eixo das vigas em um dos sentidos da malha
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -385,13 +386,13 @@ ___
 
 [Arquivo base da Aula](./Aula_10/AULA_10_base_2018.gh)
 
-1. Edfício de Multiplos pavimentos
+1. Edifício de Múltiplos pavimentos
 
 [Arquivo final da Aula](./Aula_10/Aula_10_final_2018.gh)
 
 1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -405,7 +406,7 @@ ___
 
 1. Exercício 12 - transformar um dos algoritmos desenvolvidos no curso em uma função
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -417,7 +418,7 @@ ___
 
     [Arquivo final da Aula](.\Aula_12\AULA_12_final.gh)
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 ___
 
@@ -427,7 +428,7 @@ ___
 
 1. Exercício 13 - ????
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
 [referência da biblioteca ghpythonlib](https://developer.rhino3d.com/guides/rhinopython/ghpython-component/)
 
@@ -443,7 +444,7 @@ ___
 
 1. Exercício 14 - Desenvolver um algoritmo que gere um outro fractal.
 
-1. Referências e *links* ùteis
+1. Referências e *links* úteis
 
     [Plug-in FRACTALS](https://www.food4rhino.com/app/fractals)
 
@@ -465,7 +466,7 @@ ___
 
 1. Encerramento do Curso
 
-2. Referências e *links* ùteis
+2. Referências e *links* úteis
 
 [Tutoriais de C# para Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper)
 
