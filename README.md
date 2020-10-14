@@ -83,9 +83,9 @@ ___
 
 ### Aula 02 -
 
-[notas de aula - Python 2](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02_py2.ipynb)
+[notas de aula - Python 2](https://colab.research.google.com/github/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02_py2.ipynb)
 
-[notas de aula - Python 3](https://github.com/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02_py3.ipynb)
+[notas de aula - Python 3](https://colab.research.google.com/github/255ribeiro/LPACAF/blob/master/Aula_02/LPACAF-Aula_02_py3.ipynb)
 
 1. Variáveis
     * Tipos de variáveis
