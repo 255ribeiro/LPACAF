@@ -133,7 +133,11 @@ Cursos de Python:
 
     [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/python-3-mundo-1/)
 
-    [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
+    [Curso de Python no Blender](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
+
+    [Curso de Python no Grasshopper](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx)
+
+    [Introdução - Python Grasshopper](https://www.youtube.com/watch?v=AQP0FVyQ7rc)
 
 ___
 
