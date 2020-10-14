@@ -16,8 +16,6 @@ Forum de comunicação do curso (Moodle UFBA):
 
 ___
 
-## [Guia de instalação do ambiente de Trabalho](./guia_install/readme.md)
-
 ## Plano de Curso
 
 ___
