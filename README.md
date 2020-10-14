@@ -43,9 +43,23 @@ ___
 
 1. Instalação
 
-    * CPython 2.7x IDLE
+    - CPython 2.7x IDLE
+    - Anaconda 3
+        * Pastas importantes da distribuição Anaconda no Windows
+          - Instalado para um único usuário
+            ```
+            %USERPROFILE%/Anaconda3
+            %USERPROFILE%/Anaconda3/Scripts
+            %USERPROFILE%/Lib/site-packages
+            ```
+          - Instalado para todos os usuários do computador
+            ```
+            %PROGRAMFILES%/Anaconda3
+            %PROGRAMFILES%/Anaconda3/Scripts
+            %PROGRAMFILES%/Lib/site-packages
+            ```
 
-1. Operações matemáticas no Python Shell
+2. Operações matemáticas no Python Shell
 
    * Operadores matemáticos
 
@@ -55,9 +69,9 @@ ___
 
    * Níveis de Parênteses
 
-1. Exercício sugerido 01 - Use o Python Shell como uma calculadora
+3. Exercício sugerido 01 - Use o Python Shell como uma calculadora
 
-1. Referências e *links* úteis
+4. Referências e *links* úteis
 
    * Python
 
