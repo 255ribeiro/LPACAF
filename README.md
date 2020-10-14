@@ -135,7 +135,9 @@ Cursos de Python:
 
     - [Visualização de dados com Python](https://www.youtube.com/watch?v=avSiigCExoY&list=PLpVCamz0zLr9D4SQMLMVbVPAhz2BpLbp8)
   
-    - [Curso Python na Prática](https://www.youtube.com/watch?v=qx2LGtKzjxk&list=PL5TJqBvpXQv6pHlMrbC-NfgeGE2CGrd1S)
+    -[Introdução ao Python por Projetos](https://www.youtube.com/watch?v=gDDGq7Q_YFE&list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J)
+
+  - [Python na Prática](https://www.youtube.com/watch?v=qx2LGtKzjxk&list=PL5TJqBvpXQv6pHlMrbC-NfgeGE2CGrd1S)
 
 * Em Inglês:
 
