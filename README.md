@@ -129,15 +129,19 @@ Cursos de Python:
 
 * Em português:
 
-    [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
+   - [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
 
-    [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/python-3-mundo-1/)
+    - [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/python-3-mundo-1/)
 
-    [Curso de Python no Blender](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
+    - [Visualização de dados com Python](https://www.youtube.com/watch?v=avSiigCExoY&list=PLpVCamz0zLr9D4SQMLMVbVPAhz2BpLbp8)
 
-    [Curso de Python no Grasshopper](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx)
+* Em Ingles:
 
-    [Introdução - Python Grasshopper](https://www.youtube.com/watch?v=AQP0FVyQ7rc)
+    - [Curso de Python no Grasshopper](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx)
+
+    - [Introdução - Python Grasshopper](https://www.youtube.com/watch?v=AQP0FVyQ7rc)
+
+    - [Curso de Python no Blender](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
 
 ___
 
