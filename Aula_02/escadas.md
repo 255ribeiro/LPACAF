@@ -6,7 +6,6 @@
 
 1. Todos os degraus devem ter a mesma altura de espelho e a mesma medida de piso.
 2. A medida da altura do espelho deve ser a maior possível, sem exceder a altura máxima indicada.
-3. O valor das medidas de altura e piso devem ser adotadas com precisão de 1 milímetro (podendo ser centímetro com uma casa decimal ou métro com 3 casas decimais).
 
 ### Relenbrando a formula de Blondel:
 
