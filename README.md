@@ -50,13 +50,13 @@ ___
             ```
             %USERPROFILE%/Anaconda3
             %USERPROFILE%/Anaconda3/Scripts
-            %USERPROFILE%/Lib/site-packages
+            %USERPROFILE%/Anaconda3/Lib/site-packages
             ```
           - Instalado para todos os usuários do computador
             ```
             %PROGRAMFILES%/Anaconda3
             %PROGRAMFILES%/Anaconda3/Scripts
-            %PROGRAMFILES%/Lib/site-packages
+            %PROGRAMFILES%/Anaconda3/Lib/site-packages
             ```
 
 2. Operações matemáticas no Python Shell
