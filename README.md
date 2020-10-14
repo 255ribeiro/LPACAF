@@ -58,6 +58,12 @@ ___
             %PROGRAMFILES%/Anaconda3/Scripts
             %PROGRAMFILES%/Anaconda3/Lib/site-packages
             ```
+    - Como encontrar o interpretador Python da sua distribuição
+       - No console Python (Python shell) digite:
+            ```
+            import sys
+            sys.exec_prefix
+            ```
 
 2. Operações matemáticas no Python Shell
 
