@@ -131,7 +131,7 @@ Cursos de Python:
 
     [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
 
-    [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/curso-python-3/)
+    [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/python-3-mundo-1/)
 
     [Apostilas de Python sugeridas pelo blog Café com Código](http://cafecomcodig0.com.br/5-apostilas-de-python-gratis-pdf/)
 
