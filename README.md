@@ -129,13 +129,15 @@ Cursos de Python:
 
 * Em português:
 
-   - [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
+    - [Tutoriais para iniciantes sugeridos pela comunidade Python Brasil](http://python.org.br/introducao)
 
     - [curso em vídeo - python 3 em portugues](https://www.cursoemvideo.com/course/python-3-mundo-1/)
 
     - [Visualização de dados com Python](https://www.youtube.com/watch?v=avSiigCExoY&list=PLpVCamz0zLr9D4SQMLMVbVPAhz2BpLbp8)
+  
+    - [Curso Python na Prática](https://www.youtube.com/watch?v=qx2LGtKzjxk&list=PL5TJqBvpXQv6pHlMrbC-NfgeGE2CGrd1S)
 
-* Em Ingles:
+* Em Inglês:
 
     - [Curso de Python no Grasshopper](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx)
 
@@ -184,17 +186,15 @@ ___
       * import *nome_do_módulo* as *chamada_do_módulo*
       * from *nome_do_módulo* import *função_ou_classe_do_módulo*
 
-   * importação from \_\_future\_\_
-
-1. Funções definidas pelo usuário
+2. Funções definidas pelo usuário
 
    * def
    * parâmetros de entrada
    * retorno
 
-1. Exercício 03 - [Bhaskara](./Aula_03/Bhaskara.pdf)
+3. Exercício 03 - [Bhaskara](./Aula_03/Bhaskara.pdf)
 
-1. Referências e *links* úteis
+4. Referências e *links* úteis
 
    * IDE [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
