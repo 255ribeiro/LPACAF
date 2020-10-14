@@ -117,9 +117,9 @@ ___
 
 1. Arquivos dos Exemplos da Aula
 
-    [Calcúlo do número de espelhos de uma escada](./Aula_02/calculoDeEscadas.py)
+    [Calcúlo do número de espelhos de uma escada](./Aula_02/escadas.md)
 
-1. Referências e *links* úteis
+2. Referências e *links* úteis
 
     *[Tweet sobre Python The Economist](https://twitter.com/theeconomist/status/1020001623236665346?lang=pt)
 
