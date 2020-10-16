@@ -223,7 +223,7 @@ ___
       * from *nome_do_módulo* import *função_ou_classe_do_módulo* as *chamada_da_classe_ou_função_do_módulo*
    * Instalando bibliotecas adicionais
     ```shell
-        pip install matplotlib, numpy
+        pip install matplotlib
     ```
 
     * [tutorial sobre o pip](https://www.w3schools.com/python/python_pip.asp)
