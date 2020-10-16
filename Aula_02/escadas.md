@@ -32,8 +32,9 @@ ______________________________
 
 <!-- language-all: python -->
 
+teste
 
-```Python
+```python
 
 import math
 
