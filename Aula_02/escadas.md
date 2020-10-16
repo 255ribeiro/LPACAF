@@ -32,7 +32,6 @@ ______________________________
 
 <!-- language-all: python -->
 
-teste
 
 ```python
 
