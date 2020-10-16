@@ -41,16 +41,29 @@ ___
 
 1. Instalação
 
-    - CPython 2.7x IDLE
+    - CPython 3.X
+        * Pastas importantes da distribuição CPython
+          - Instalado para um único usuário (instalação mais comum)
+            ```
+            %USERPROFILE%/AppData/Local/Programs/Python/Python39
+            %USERPROFILE%/AppData/Local/Programs/Python/Python39/Scripts
+            %USERPROFILE%/AppData/Local/Programs/Python/Python39/Lib/site-packages
+            ```
+          - Instalado para todos os usuários do computador(instalação alternativa)
+            ```
+            %PROGRAMFILES%/AppData/Local/Programs/Python/Python39
+            %PROGRAMFILES%/AppData/Local/Programs/Python/Python39/Scripts
+            %PROGRAMFILES%/AppData/Local/Programs/Python/Python39/Lib/site-packages
+            ```
     - Anaconda 3
         * Pastas importantes da distribuição Anaconda no Windows
-          - Instalado para um único usuário
+          - Instalado para um único usuário (instalação mais comum)
             ```
             %USERPROFILE%/Anaconda3
             %USERPROFILE%/Anaconda3/Scripts
             %USERPROFILE%/Anaconda3/Lib/site-packages
             ```
-          - Instalado para todos os usuários do computador
+          - Instalado para todos os usuários do computador (instalação alternativa)
             ```
             %PROGRAMFILES%/Anaconda3
             %PROGRAMFILES%/Anaconda3/Scripts
