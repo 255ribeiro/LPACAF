@@ -7,10 +7,12 @@
 1. Todos os degraus devem ter a mesma altura de espelho e a mesma medida de piso.
 2. A medida da altura do espelho deve ser a maior possível, sem exceder a altura máxima indicada.
 
-### Relenbrando a formula de Blondel:
+### Relembrando a formula de Blondel:
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;2\times{h} + p = 63cm" title="2\times{h} + p = 63cm" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
+2\times{h} + p = 63cm"
+/>
 
 
 Onde: 

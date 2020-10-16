@@ -11,9 +11,9 @@ for i in x:
     z.append(z1)
 
 
-fig = plt.figure(figsize=(80,40))
+fig = plt.figure(figsize=(10,5))
 ax = fig.add_axes([0,0,1,1])
-l1 = ax.plot(x,y,'ys-')
+l1 = ax.plot(x,y,color='y', linewidth=10, marker='s', ms=15, markerfacecolor='b')
 l2 = ax.plot(x,z,'go--')
 ax.legend(labels = ('tv', 'Smartphone'), loc = 'lower right')
 ax.set_title("Advertisement effect on sales")
