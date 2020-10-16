@@ -9,9 +9,9 @@
 
 ### Relenbrando a formula de Blondel:
 
-\(
-    2\times{h} + p = 63cm
-\)
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;2\times{h} + p = 63cm" title="2\times{h} + p = 63cm" />
+
 
 Onde: 
 - \(h\) é a altuda dos espelhos do degrau
@@ -21,6 +21,8 @@ Onde:
 1. Quais são as entradas?
 2. Quais são as saídas?
 3. Como calcular as saídas a partir das entradas?
+
+
 ______________________________
 
 
