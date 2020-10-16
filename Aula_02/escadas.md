@@ -9,31 +9,27 @@
 
 ### Relenbrando a formula de Blondel:
 
-$$
-2\times{h} + p = 63cm
-$$
+\(
+    2\times{h} + p = 63cm
+\)
 
 Onde: 
-- $h$ é a altuda dos espelhos do degrau
-- $p$ é a medida do piso do degrau
+- \(h\) é a altuda dos espelhos do degrau
+- \(p\) é a medida do piso do degrau
 
 ## Comece imaginando uma sequência de passos para resolver o problema. Pensar nas perguntas abaixo pode ajudar no processo:
 1. Quais são as entradas?
 2. Quais são as saídas?
 3. Como calcular as saídas a partir das entradas?
 ______________________________
-______________________________
+
+
+[Arquivo final](./calculoDeEscadas.py)
+
 ______________________________
 
-[arquivo final](./calculoDeEscadas.py)
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-______________________________
-______________________________
-______________________________
 ```Python
+
 import math
 
 # entra do desnivel da escada
