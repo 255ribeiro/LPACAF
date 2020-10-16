@@ -215,11 +215,20 @@ ___
             * datetime.date()
             * datetime.timedelta()
 
-   * 3 formas de importação
+   * 4 formas de importação
 
       * import *nome_do_módulo*
       * import *nome_do_módulo* as *chamada_do_módulo*
       * from *nome_do_módulo* import *função_ou_classe_do_módulo*
+      * from *nome_do_módulo* import *função_ou_classe_do_módulo* as *chamada_da_classe_ou_função_do_módulo*
+   * Instalando bibliotecas adicionais
+    ```shell
+        pip install matplotlib, numpy
+    ```
+
+    * [tutorial sobre o pip](https://www.w3schools.com/python/python_pip.asp)
+    * [tutorial sobre o numpy](https://www.w3schools.com/python/numpy_intro.asp)
+    * [tutorial sobre o matplotlib](https://www.tutorialspoint.com/matplotlib/index.htm)
 
 2. Funções definidas pelo usuário
 
