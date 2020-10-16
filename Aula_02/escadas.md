@@ -16,8 +16,13 @@
 
 
 Onde: 
-- \(h\) é a altuda dos espelhos do degrau
-- \(p\) é a medida do piso do degrau
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;
+h
+"
+/> é a altura dos espelhos do degrau
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;
+p
+" /> é a medida do piso do degrau
 
 ## Comece imaginando uma sequência de passos para resolver o problema. Pensar nas perguntas abaixo pode ajudar no processo:
 1. Quais são as entradas?
