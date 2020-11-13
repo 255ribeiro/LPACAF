@@ -19,7 +19,7 @@ if P3D is None:
 # P2D - ponto no desenho -- (item, Plane)
 # P3D - ponto no terreno -- (item, Plane)
 # Contorno - contorno da laje -- (list, ghdoc)
-# PD - distancia piso a piso-- (item, float)
+# PaP - distancia piso a piso-- (item, float)
 # h_laje - altura da laje -- (item, float)
 # N_andares - Numerod e andares y -- (item, int)
 # Rot - rotação dos andares -- (item, float)
@@ -52,7 +52,7 @@ for i in range(N_andares +1):
     ## Colocando os contornos na posição dos pavimentos
     
     #movendo o Contorno para a altura do pavimento
-    ContornoPos = rs.CopyObjects(ContornoAux, (i * PD *P3D.ZAxis) )
+    ContornoPos = rs.CopyObjects(ContornoAux, (i * PaP *P3D.ZAxis) )
     
     # rotacionando o contorno dos pavimentos
     ContornoPos = rs.RotateObjects(ContornoPos , P3D.Origin , (Rot * i/N_andares), P3D.ZAxis)
