@@ -5,7 +5,8 @@
 #Exemplo pavimentos multiplos
 from __future__ import print_function
 import rhinoscriptsyntax as rs
-from Rhino.Geometry import Point3d, Vector3d, Plane, Point3dGrid
+from Rhino.Geometry import Point3d, Vector3d, Plane
+
 
 if P2D is None:
     P2D = Plane(Point3d(0,0,0), Vector3d(1,0,0), Vector3d(0,1,0))
@@ -60,7 +61,7 @@ for i in range(N_andares +1):
     # colocando o Contorno posicionado na lista de saida dos contornos
     pavConrotno  = pavConrotno + ContornoPos
     
-    # Gerando superfície atravès das linhas de contorno
+    # Gerando superficie atraves das linhas de contorno
     face = rs.AddPlanarSrf(ContornoPos)
     
     ## Saida das faces
