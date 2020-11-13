@@ -34,12 +34,8 @@ Teste = []
 
 #função principal
 
-
-
 # alinhando com o plano P3D
-
 ContornoAux =[]
-
 
 # orinetando os contornos
 for curva in Contorno:
@@ -50,23 +46,24 @@ for curva in Contorno:
     
 
 # loop dos andares
-for i in range(N_andares):
+for i in range(N_andares +1):
+    
+    ## Colocando os contornos na posição dos pavimentos
     
     #movendo o Contorno para a altura do pavimento
-    ContornoMove = rs.CopyObjects(ContornoAux, (i * PD *P3D.ZAxis) )
+    ContornoPos = rs.CopyObjects(ContornoAux, (i * PD *P3D.ZAxis) )
     
-    ## Rotação
     # rotacionando o contorno dos pavimentos
-    ContornoMove = rs.RotateObjects(ContornoMove , P3D.Origin , (Rot * i/N_andares), P3D.ZAxis)
+    ContornoPos = rs.RotateObjects(ContornoPos , P3D.Origin , (Rot * i/N_andares), P3D.ZAxis)
 
-    ## saida dos contornos
-    # colocando o Contorno movido na lista de saida dos contornos
-    pavConrotno  = pavConrotno + ContornoMove
+    ## Saida dos contornos
+    # colocando o Contorno posicionado na lista de saida dos contornos
+    pavConrotno  = pavConrotno + ContornoPos
     
-    # gerando superfície atravès das linhas de contorno
-    face = rs.AddPlanarSrf(ContornoMove)
+    # Gerando superfície atravès das linhas de contorno
+    face = rs.AddPlanarSrf(ContornoPos)
     
-    ## saida das faces
+    ## Saida das faces
     # colocando a face na lista de saida das faces
     pavFace += face
     
@@ -76,12 +73,7 @@ for i in range(N_andares):
     # linha diretriz da extrusão
     lAux = rs.AddLine(P3D.Origin, pAux)
     # sólido gerado pela extrusão
-    laje = rs.ExtrudeSurface(face, lAux)
-    # ponto auxiliar para criaçao da diretriz da extrusão
-    pAux = P3D.Origin + Point3d( 0,0, h_laje)
-    # linha diretriz da extrusão
-    lAux = rs.AddLine(P3D.Origin, pAux)
-    # sólido gerado pela extrusão
+
     lajeAux = rs.ExtrudeSurface(face, lAux)
     
     # saida das lajes
