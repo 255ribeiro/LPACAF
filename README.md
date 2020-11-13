@@ -434,20 +434,22 @@ ___
 
 ### Aula 10 -
 
+Arquivo exemplo
 
 [Comando Orient3p](./Aula_10/planos_teste.3dm)
 
-------------
+
+Arquivos da aula
 
 [Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
 
 1. Edifício de Múltiplos pavimentos
 
-[Arquivo final da Aula](./Aula_10/Aula_10_final_2020.gh)
+[Arquivo final da Aula](./Aula_10/AULA_10_final_2020.gh)
 
 1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
-1. Referências e *links* úteis
+2. Referências e *links* úteis
 
 ___
 
