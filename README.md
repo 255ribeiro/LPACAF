@@ -439,11 +439,9 @@ Arquivo exemplo
 [Comando Orient3p](./Aula_10/planos_teste.3dm)
 
 
-Arquivos da aula
+1. Edifício de Múltiplos pavimentos
 
 [Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
-
-1. Edifício de Múltiplos pavimentos
 
 [Arquivo final da Aula](./Aula_10/AULA_10_final_2020.gh)
 
