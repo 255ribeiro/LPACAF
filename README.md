@@ -434,7 +434,10 @@ ___
 
 ### Aula 10 -
 
+
 [Comando Orient3p](./Aula_10/planos_teste.3dm)
+
+------------
 
 [Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
 
