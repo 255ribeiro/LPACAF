@@ -434,16 +434,16 @@ ___
 
 ### Aula 10 -
 
-Arquivo exemplo
+1. Arquivo exemplo do comando Orient3p
 
-[Comando Orient3p](./Aula_10/planos_teste.3dm)
+    [Comando Orient3p](./Aula_10/planos_teste.3dm)
 
 
 1. Edifício de Múltiplos pavimentos
 
-[Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
+    [Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
 
-[Arquivo final da Aula](./Aula_10/AULA_10_final_2020.gh)
+    [Arquivo final da Aula](./Aula_10/AULA_10_final_2020.gh)
 
 1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
@@ -455,9 +455,9 @@ ___
 
 1. Funções definidas pelo usuário
 
-[Funções definidas pelo usuário em Python 3](./Aula_11/functionsPyton3.md)
+    [Funções definidas pelo usuário em Python 3](./Aula_11/functionsPyton3.md)
 
-[Funções definidas pelo usuário Rhino/Grasshopper](./Aula_11/functionsRhinoGrass.md)
+    [Funções definidas pelo usuário Rhino/Grasshopper](./Aula_11/functionsRhinoGrass.md)
 
 1. Exercício 12 - transformar um dos algoritmos desenvolvidos no curso em uma função
 
@@ -485,9 +485,9 @@ ___
 
 1. Referências e *links* úteis
 
-[referência da biblioteca ghpythonlib](https://developer.rhino3d.com/guides/rhinopython/ghpython-component/)
+    [referência da biblioteca ghpythonlib](https://developer.rhino3d.com/guides/rhinopython/ghpython-component/)
 
-[EliFront](https://www.food4rhino.com/app/elefront)
+    [EliFront](https://www.food4rhino.com/app/elefront)
 
 ___
 
@@ -523,11 +523,11 @@ ___
 
 2. Referências e *links* úteis
 
-[Tutoriais de C# para Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper)
+    [Tutoriais de C# para Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper)
 
-[Tutoriais de C# para Grasshopper](https://www.youtube.com/watch?v=pFCrIzENDn8&list=PLapoQ_9M-ujfYGOsZProIXPGx-HRfjJ9C)
+    [Tutoriais de C# para Grasshopper](https://www.youtube.com/watch?v=pFCrIzENDn8&list=PLapoQ_9M-ujfYGOsZProIXPGx-HRfjJ9C)
 
-[Compilando um componente Python no Rhino 6](https://discourse.mcneel.com/t/tutorial-creating-a-grasshopper-component-with-the-python-ghpy-compiler/38552)
+    [Compilando um componente Python no Rhino 6](https://discourse.mcneel.com/t/tutorial-creating-a-grasshopper-component-with-the-python-ghpy-compiler/38552)
 
 ___
 ___
