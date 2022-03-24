@@ -27,4 +27,4 @@ print("os espelhos tem altura de  ", h_esp)
 piso = .63 - (2 * h_esp)
 
 ## medida do piso
-print(" o piso tem ", piso, "m")
+print(" o piso tem ", round(piso,2), "m")
