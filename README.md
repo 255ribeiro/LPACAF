@@ -2,7 +2,7 @@
 
 ___
 
-Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
+<!-- Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 ___
 
@@ -12,7 +12,7 @@ ___
 
 Forum de comunicação do curso (Moodle UFBA):
 
-[https://www.moodle.ufba.br/course/view.php?id=6705](https://www.moodle.ufba.br/course/view.php?id=6705)
+[https://www.moodle.ufba.br/course/view.php?id=6705](https://www.moodle.ufba.br/course/view.php?id=6705) -->
 
 ___
 
@@ -30,7 +30,7 @@ ___
     * Metodologia
     * Avaliações
 
-1. Funcionamento do Laboratório
+
 
 1. Introdução
 
@@ -39,7 +39,9 @@ ___
    * Programação Aplicada à Arquitetura e Urbanismo
    * A linguagem Python
 
-1. Instalação
+1. [Fluxogramas](./Fluxogramas/fluxogramas.md)
+
+2. Instalação
 
     - CPython 3.X
         * Pastas importantes da distribuição CPython
@@ -76,7 +78,7 @@ ___
         sys.exec_prefix
         ```
 
-2. Operações matemáticas no Python Shell
+3. Operações matemáticas no Python Shell
 
    * Operadores matemáticos
 
@@ -86,9 +88,9 @@ ___
 
    * Níveis de Parênteses
 
-3. Exercício sugerido 01 - Use o Python Shell como uma calculadora
+4. Exercício sugerido 01 - Use o Python Shell como uma calculadora
 
-4. Referências e *links* úteis
+5. Referências e *links* úteis
 
    * Python
 
