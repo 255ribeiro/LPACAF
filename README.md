@@ -474,7 +474,13 @@ ___
 
     [Arquivo final da Aula](.\Aula_12\AULA_12_final.gh)
 
+
+1. Data trees
+
+    [Artigo Mcnell data trees](https://developer.rhino3d.com/guides/rhinopython/grasshopper-datatrees-and-python/)
+
     [exemplos de data tree R8 - py3](./Aula_12/datatree_examples_py3.gh)
+
 
 1. Referências e *links* úteis
 
