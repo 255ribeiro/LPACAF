@@ -30,8 +30,6 @@ ___
     * Metodologia
     * Avaliações
 
-
-
 1. Introdução
 
    * Conceito de algoritmo
@@ -446,10 +444,11 @@ ___
     [Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
 
     [Arquivo final da Aula](./Aula_10/AULA_10_final_2020.gh)
+    [Arquivo final da Aula - R8 - py3](./Aula_10/AULA_10_final_rh8.gh)
 
-1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
+2. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
-2. Referências e *links* úteis
+3. Referências e *links* úteis
 
 ___
 
@@ -474,6 +473,8 @@ ___
     [Arquivo base da Aula](.\Aula_12\Aula_12_base.gh)
 
     [Arquivo final da Aula](.\Aula_12\AULA_12_final.gh)
+
+    [exemplos de data tree R8 - py3](./Aula_12/datatree_examples_py3.gh)
 
 1. Referências e *links* úteis
 
