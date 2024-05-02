@@ -444,7 +444,10 @@ ___
     [Arquivo base da Aula](./Aula_10/AULA_10_base_2020.gh)
 
     [Arquivo final da Aula](./Aula_10/AULA_10_final_2020.gh)
+
     [Arquivo final da Aula - R8 - py3](./Aula_10/AULA_10_final_rh8.gh)
+
+    [trabalho de alunos R6-R7](./Aula_10/multi_pav_r6_r7.gh)
 
 2. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
