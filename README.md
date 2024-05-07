@@ -439,9 +439,9 @@ ___
 
     [Comando Orient3p](./Aula_10/planos_teste.3dm)
 
---------
+_________
 
-2. Edifício de Múltiplos pavimentos
+1. Edifício de Múltiplos pavimentos
    
    <br>
 
@@ -451,11 +451,11 @@ ___
 
     [Arquivo final da Aula - R8 - py3](./Aula_10/AULA_10_final_rh8.gh)
 
---------
+_________
 
 1. Exercício 9 - adaptar o código para que a rotação dos andares tenha sentidos alternados (e.g. andares pares no sentido horário e andares impares no sentido anti-horário)
 
---------
+_________
 
 1. Trabalhos de Alunos - Edf. Multiplos pavimentos
    <br>
@@ -467,11 +467,11 @@ ___
     * [trabalho de alunos R8](./Aula_10/multi_pav_r8.gh)
 
 
---------
+_________
 
 1. Referências e *links* úteis
 
-___
+_________
 
 ### Aula 11 -
 
