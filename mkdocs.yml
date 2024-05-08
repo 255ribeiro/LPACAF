@@ -1,0 +1,82 @@
+site_name: Fundamentos de Programação aplicadada à análise e criação da forma
+use_directory_urls: false
+
+copyright: Copyright &copy; 2022 Fernando Ferraz Ribeiro
+
+theme:
+  features:
+    #- navigation.sections
+    - toc.integrate
+    #- navigation.tabs
+  name: material   
+  language: en-custom
+  custom_dir: docs/overrides
+  # favicon: figs/chart_white/icons8-doughnut-chart-96.png
+  # logo: figs/chart_white/icons8-doughnut-chart-96.png
+
+
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+site_url: "https://255ribeiro.github.io/py5_aulas/"
+repo_url: "https://github.com/255ribeiro/py5_aulas"
+repo_name: "255ribeiro/py5_aulas" 
+
+nav:
+  - Home: index.md
+  - instalação :
+      - Instalação do interpretador Cpython: ./instala/install.md
+      - Instalação do Py5: ./instala/install_py5.md
+  - Python Básico:
+      - Operações matemáticas no shell: ./basic/variaveis_e_operadores.ipynb
+      - tipos de dados: ./basic/data_types.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - toc:
+      toc_depth: 1
+
+extra_css:
+  - overrides/css/extra_css.css
+
+plugins:
+  - mkdocs-jupyter:
+      kernel_name:
+      include: ["*.py", "*.ipynb"]
+      #ignore: ["./flask/hello_flask.ipynb"]
+      execute: False
+      execute_ignore: ["./flask_dash/*/*"]
+      include_source: True
+      
+
+
+extra:
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/255ribeiro
+      - icon: fontawesome/brands/youtube
+        link: https://www.youtube.com/channel/UCCkMaRdD7PBWhs4JgH5s6_w
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/in/fernando-ferraz-ribeiro-b49a7bb0/
+      - icon: fontawesome/solid/envelope
+        link: mailto:ffribeiro@gmail.com
