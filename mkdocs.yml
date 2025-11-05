@@ -1,4 +1,4 @@
-site_name: Fundamentos de Programação aplicadada à análise e criação da forma
+site_name: Fundamentos de Programação aplicada à análise e criação da forma
 use_directory_urls: false
 
 copyright: Copyright &copy; 2022 Fernando Ferraz Ribeiro
@@ -10,7 +10,7 @@ theme:
     #- navigation.tabs
   name: material   
   language: en-custom
-  custom_dir: docs/overrides
+  # custom_dir: docs/overrides
   # favicon: figs/chart_white/icons8-doughnut-chart-96.png
   # logo: figs/chart_white/icons8-doughnut-chart-96.png
 
