@@ -17,3 +17,5 @@ mkdocs-jupyter = "^0.24.7"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+# pixi add python=3.13 mkdocs mkdocs-material mkdocs-jupyter
