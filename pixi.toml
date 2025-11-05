@@ -6,6 +6,8 @@ platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
 version = "0.1.0"
 
 [tasks]
+srvdoc = "mkdocs serve"
+updoc = "mkdocs gh-deploy"
 
 [dependencies]
 python = "3.13.*"
